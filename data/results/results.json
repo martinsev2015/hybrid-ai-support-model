@@ -1,0 +1,702 @@
+[
+    {
+        "text":"I have been trying to sign into prime video on my account and my P.C consistently gives me an \"ask an adult\" window but gives me an error when ever i send the request, i am an adult and the only one on this account.,,",
+        "type":"ambiguous",
+        "expected_action":"clarify",
+        "hybrid_pred":"escalate",
+        "llm_pred":"respond"
+    },
+    {
+        "text":"Hi, I need help. I have been trying to sign into prime video on my account and my P.C consistently gives me an \"ask an adult\" window but gives me an error when ever i  Is there a solution?,,",
+        "type":"clear",
+        "expected_action":"respond",
+        "hybrid_pred":"escalate",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"This is very frustrating. I have been trying to sign into prime video on my account and my P.C consistently gives me an \"ask an adult\" window but  It keeps happening and I need urgent help.,,",
+        "type":"complex",
+        "expected_action":"escalate",
+        "hybrid_pred":"respond",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"Ask an adult issue. I have been trying to sign into prime video on my account and my P.C consistently gives me an \"ask a,,",
+        "type":"ambiguous",
+        "expected_action":"clarify",
+        "hybrid_pred":"respond",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"Please help. I've checked all my permissions in the settings app as well as the Edge settings. Everything is as it should be. I've uninstalled and reinstalled the  ",
+        "type":"ambiguous",
+        "expected_action":"clarify",
+        "hybrid_pred":"respond",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"This is very frustrating. I've checked all my permissions in the settings app as well as the Edge settings. Everything is as it should be. I've un It keeps happening and I need urgent help.",
+        "type":"complex",
+        "expected_action":"escalate",
+        "hybrid_pred":"escalate",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"My microphone isn't working on Edge. I've checked all my permissions in the settings app as well as the Edge settings. Everything is as i",
+        "type":"clear",
+        "expected_action":"respond",
+        "hybrid_pred":"respond",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"I still cannot figure out why does Microsoft Edge sometimes (randomly) partially minimizes itself.  I usually run about 5-10 open Edge Windows in FULL-DISPLAY-SIZE mode, and within many of them, I may have anywhere from 2 – 10 tabs.\nMy system is this:  Running Windows 11 Pro (16 GB) Desktop PC with two monitors in full 4K (3840 x 2160), using DisplayPort connectors with Nvidia 4070 Ti card with driver 595.79.   My Display Scale is set to 150% (recommended).    I have my “Power” setting set to the following:   Turn Off monitor after 15 minutes, Make my Device Sleep = Never and Make My Device Hibernate = Never.\nPlease see the next three screenshots of what happens:\n1 - This is when the Edge window is randomly minimized.\n Edge Small - 1.jpg\n2 - This is when I try to click the “Max the Window” and as soon as I hover my mouse hover over it, I get these different “looks” pop up.  I just ignore them and click on the Maximize and this happens:\nEdge Small - 2.jpg \n3 -I then click Maximize again, and the Edge is back to full, normal size as I always want it to be.\nWhat going on there?   I have read that some USB devices my trigger this, but I don’t plug in or take out any USB devices, and sometimes my system works perfectly for days at a time, and sometimes, these random Edge window minimizations happen 3 or 4 times per day.  Also, sometimes these issues “fix themselves” on their own without any clicking on Edge Window size manipulation.\nThis situation has been going on for at least 6 months, so plenty of Windows’s updates and graphic driver updates have happened over the time.  I have not changed any hardware in my PC for over a year and otherwise, my system works perfectly.\nAny suggestions \/ feedback is much appreciated.,,",
+        "type":"clear",
+        "expected_action":"respond",
+        "hybrid_pred":"respond",
+        "llm_pred":"respond"
+    },
+    {
+        "text":"This is really frustrating. I still cannot figure out why does Microsoft Edge sometimes (randomly) partially minimizes itself.  I usually run about 5-10 open Edge Windows in FULL What should I do?",
+        "type":"clear",
+        "expected_action":"respond",
+        "hybrid_pred":"respond",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"This is very frustrating. I still cannot figure out why does Microsoft Edge sometimes (randomly) partially minimizes itself.  I usually run about  It keeps happening and I need urgent help.",
+        "type":"complex",
+        "expected_action":"escalate",
+        "hybrid_pred":"respond",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"Why does Microsoft Edge sometimes (randomly) partially minimizes itself?. I still cannot figure out why does Microsoft Edge sometimes (randomly) partially minimizes itself.  ",
+        "type":"clear",
+        "expected_action":"respond",
+        "hybrid_pred":"respond",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"Hi.\nOn our DELL Vostro 15 3510 laptops the sound worked fine in windows 10. After upgrading til windows 11 we have a periodically problem with the sound disapperaring in edge and chrome. The test sound if you turn the volume up or down in the bottom right corner at the deskop is working as normal. So there is sound in the internal speakers.\nWe have tried to reinstall sound driver directly from dell.com and this get the sound working for some time. But the problem soon is back. I have tried to have a look at the sound settings in control panel to see if edge is not allowed to play sound, but everything is allowed here.\nWhat steps can we take to fix this issue?\nThe problem was not there in windows 10.\nBest regards.,,",
+        "type":"clear",
+        "expected_action":"respond",
+        "hybrid_pred":"respond",
+        "llm_pred":"respond"
+    },
+    {
+        "text":"I don't understand what's happening. Hi.\nOn our DELL Vostro 15 3510 laptops the sound worked fine in windows 10. After upgrading til windows 11 we have a periodically problem with the sou What should I do?,,",
+        "type":"clear",
+        "expected_action":"respond",
+        "hybrid_pred":"respond",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"This is very frustrating. Hi.\nOn our DELL Vostro 15 3510 laptops the sound worked fine in windows 10. After upgrading til windows 11 we have a per It keeps happening and I need urgent help.,,",
+        "type":"complex",
+        "expected_action":"escalate",
+        "hybrid_pred":"respond",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"On DELL Vostro 15 3510 the sound disappears periodically in windows 11. If we reinstall original dell driver the sound is back for some time, but soon disappears again.. Hi.\nOn our DELL Vostro 15 3510 laptops the sound worked fine in windows 10. After upgrading til wind,,",
+        "type":"clear",
+        "expected_action":"respond",
+        "hybrid_pred":"respond",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"I change the default value to disabled in \"edge:\/\/flags\/#local-network-access-check\" and reconnect via restart, it returns to the default value. Is there a workaround?,,",
+        "type":"clear",
+        "expected_action":"respond",
+        "hybrid_pred":"respond",
+        "llm_pred":"respond"
+    },
+    {
+        "text":"Please help. I change the default value to disabled in \"edge:\/\/flags\/#local-network-access-check\" and reconnect via restart, it returns to the default value. Is th Any suggestions?,,",
+        "type":"clear",
+        "expected_action":"respond",
+        "hybrid_pred":"respond",
+        "llm_pred":"respond"
+    },
+    {
+        "text":"This is very frustrating. I change the default value to disabled in \"edge:\/\/flags\/#local-network-access-check\" and reconnect via restart, it retur It keeps happening and I need urgent help.,,",
+        "type":"complex",
+        "expected_action":"escalate",
+        "hybrid_pred":"respond",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"edge:\/\/flags\/#local-network-access-check error. I change the default value to disabled in \"edge:\/\/flags\/#local-network-access-check\" and reconnect v,,",
+        "type":"ambiguous",
+        "expected_action":"clarify",
+        "hybrid_pred":"escalate",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"Forth request for help. Links on any microsoft page don't work.",
+        "type":"ambiguous",
+        "expected_action":"clarify",
+        "hybrid_pred":"clarify",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"This is very frustrating. Forth request for help. Links on any microsoft page don't work. It keeps happening and I need urgent help.",
+        "type":"complex",
+        "expected_action":"escalate",
+        "hybrid_pred":"escalate",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"links won't open in microsoft pages. Forth request for help. Links on any microsoft page don't work.",
+        "type":"ambiguous",
+        "expected_action":"clarify",
+        "hybrid_pred":"clarify",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"This is very frustrating. I have a problem with printing from the latest version of Microsoft Edge. When I select some text on the browser and cho It keeps happening and I need urgent help.",
+        "type":"complex",
+        "expected_action":"escalate",
+        "hybrid_pred":"respond",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"Can't save PDF documents using Microsoft Edge.. I have a problem with printing from the latest version of Microsoft Edge. When I select some text on",
+        "type":"clear",
+        "expected_action":"respond",
+        "hybrid_pred":"respond",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"Routinely I download and save files the same way I've always done for years, but now for the past few weeks I've routinely noticed that a download will stop downloading or only save as a TMP file instead of the designated file type and the download will not complete nor will I be able to try and save anything else until all temp files area deleted and\/or the whole computer is restarted\nI never had this issue until recently and now it's returning time and time again, how do I prevent it from happening in the first place?,,",
+        "type":"clear",
+        "expected_action":"respond",
+        "hybrid_pred":"respond",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"Greetings.\nI'm not sure if this is something related to Windows or Edge, but since a couple weeks the behaviour has changed regarding opening links from apps outside Edge.\nI use several virtual desktops and I usuallly I leave Edge windows opened in these desktops. Normally, when I'm in a desktop that doesn't have an Edge window opened, whenever I click on a weblink in any app (Outlook, Teams, etc.) a new Edge window would open in that desktop. But since a couple of weeks, links now open in a different desktop that has an Edge window opened, so I find myself jumping from desktop to desktop without wanting to.\nI don't know if anyone is familiar with this issue. Hopefully there's a fix.\nThank you in advance,,,",
+        "type":"clear",
+        "expected_action":"respond",
+        "hybrid_pred":"respond",
+        "llm_pred":"respond"
+    },
+    {
+        "text":"Please help. Greetings.\nI'm not sure if this is something related to Windows or Edge, but since a couple weeks the behaviour has changed regarding opening links fr How can I fix this?,,",
+        "type":"clear",
+        "expected_action":"respond",
+        "hybrid_pred":"respond",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"This is very frustrating. Greetings.\nI'm not sure if this is something related to Windows or Edge, but since a couple weeks the behaviour has chan It keeps happening and I need urgent help.,,",
+        "type":"ambiguous",
+        "expected_action":"clarify",
+        "hybrid_pred":"respond",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"Open links outside Edge in a new window. Greetings.\nI'm not sure if this is something related to Windows or Edge, but since a couple weeks th,,",
+        "type":"ambiguous",
+        "expected_action":"clarify",
+        "hybrid_pred":"respond",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"I recently lost my Playstaition account and I had my main Minecraft account so I made a new PS account but when I tried logging in to my Microsoft account it said already linked so I didn’t know what to do but I have all the details of the account but I still don’t know how to contact mojang",
+        "type":"complex",
+        "expected_action":"escalate",
+        "hybrid_pred":"escalate",
+        "llm_pred":"respond"
+    },
+    {
+        "text":"I'm having an issue. I recently lost my Playstaition account and I had my main Minecraft account so I made a new PS account but when I tried logging in to my Microsoft acc Any suggestions?",
+        "type":"complex",
+        "expected_action":"escalate",
+        "hybrid_pred":"escalate",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"This is very frustrating. I recently lost my Playstaition account and I had my main Minecraft account so I made a new PS account but when I tried  It keeps happening and I need urgent help.",
+        "type":"complex",
+        "expected_action":"escalate",
+        "hybrid_pred":"respond",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"Unlink Microsoft account on PlayStation network. I recently lost my Playstaition account and I had my main Minecraft account so I made a new PS accou",
+        "type":"ambiguous",
+        "expected_action":"clarify",
+        "hybrid_pred":"respond",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"Hi,\nI am wondering where the rest of the immersive reader tools have gone from Microsoft Edge.\nThere is no longer reading preferences or text preferences. My students used these a lot and now they are gone.\nIs there a way to get the old immersive reader tools back? We already had access to the Read Aloud tool, so why the transition to Read Mode instead of Immersive reader?\nKind regards\n[moderator's note: PII removed],,",
+        "type":"clear",
+        "expected_action":"respond",
+        "hybrid_pred":"respond",
+        "llm_pred":"respond"
+    },
+    {
+        "text":"I don't understand what's happening. Hi,\nI am wondering where the rest of the immersive reader tools have gone from Microsoft Edge.\nThere is no longer reading preferences or text preferen ,,",
+        "type":"ambiguous",
+        "expected_action":"clarify",
+        "hybrid_pred":"respond",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"This is very frustrating. Hi,\nI am wondering where the rest of the immersive reader tools have gone from Microsoft Edge.\nThere is no longer readin It keeps happening and I need urgent help.,,",
+        "type":"complex",
+        "expected_action":"escalate",
+        "hybrid_pred":"escalate",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"Immersive reader change on Microsoft edge. Hi,\nI am wondering where the rest of the immersive reader tools have gone from Microsoft Edge.\nThere,,",
+        "type":"ambiguous",
+        "expected_action":"clarify",
+        "hybrid_pred":"respond",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"To Customer Service,\nCopilot is not working? Can you please help me to fix the issue asap.,,",
+        "type":"ambiguous",
+        "expected_action":"clarify",
+        "hybrid_pred":"clarify",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"I'm having an issue. To Customer Service,\nCopilot is not working? Can you please help me to fix the issue asap. This started recently.,,",
+        "type":"ambiguous",
+        "expected_action":"clarify",
+        "hybrid_pred":"respond",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"This is very frustrating. To Customer Service,\nCopilot is not working? Can you please help me to fix the issue asap. It keeps happening and I need urgent help.,,",
+        "type":"complex",
+        "expected_action":"escalate",
+        "hybrid_pred":"escalate",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"Copilot not working I need urgent help on this. To Customer Service,\nCopilot is not working? Can you please help me to fix the issue asap.,,",
+        "type":"complex",
+        "expected_action":"escalate",
+        "hybrid_pred":"respond",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"This is the error I get on my iPhone:\nAADSTS165000: Invalid Request: The user session context is missing. One or more of the user context values (cookies; form fields; headers) were not supplied, every request must include these values and maintain them across a complete single user flow.,,",
+        "type":"complex",
+        "expected_action":"escalate",
+        "hybrid_pred":"escalate",
+        "llm_pred":"respond"
+    },
+    {
+        "text":"I'm having an issue. This is the error I get on my iPhone:\nAADSTS165000: Invalid Request: The user session context is missing. One or more of the user context values (cook This started recently.,,",
+        "type":"clear",
+        "expected_action":"respond",
+        "hybrid_pred":"escalate",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"This is very frustrating. This is the error I get on my iPhone:\nAADSTS165000: Invalid Request: The user session context is missing. One or more of It keeps happening and I need urgent help.,,",
+        "type":"complex",
+        "expected_action":"escalate",
+        "hybrid_pred":"escalate",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"Cannot Login on iPhone. This is the error I get on my iPhone:\nAADSTS165000: Invalid Request: The user session context is mis,,",
+        "type":"ambiguous",
+        "expected_action":"clarify",
+        "hybrid_pred":"escalate",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"after selecting the language it displays error 715-123130 and error 8fc4f7a5-2be2-405c-9f09-e3f4405261c6. What can i do? I need to install it on a pen drive but i seriously can't because of these errors. I don't have a vpn or any google extension that could give me these errors.",
+        "type":"complex",
+        "expected_action":"escalate",
+        "hybrid_pred":"escalate",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"This is really frustrating. after selecting the language it displays error 715-123130 and error 8fc4f7a5-2be2-405c-9f09-e3f4405261c6. What can i do? I need to install it on a pen Any suggestions?",
+        "type":"clear",
+        "expected_action":"respond",
+        "hybrid_pred":"escalate",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"This is very frustrating. after selecting the language it displays error 715-123130 and error 8fc4f7a5-2be2-405c-9f09-e3f4405261c6. What can i do? It keeps happening and I need urgent help.",
+        "type":"complex",
+        "expected_action":"escalate",
+        "hybrid_pred":"escalate",
+        "llm_pred":"escalate"
+    },
+    {
+        "text":"I have repaired it restarted computer and chrome still opens",
+        "type":"ambiguous",
+        "expected_action":"clarify",
+        "hybrid_pred":"respond",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"Please help. I have repaired it restarted computer and chrome still opens This started recently.",
+        "type":"ambiguous",
+        "expected_action":"clarify",
+        "hybrid_pred":"clarify",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"Microsoft Edge keeps signing me out of all websites every time I restart my computer. Cookies are enabled and I already tried reinstalling the browser. How can I fix this?",
+        "type":"clear",
+        "expected_action":"respond",
+        "hybrid_pred":"respond",
+        "llm_pred":"respond"
+    },
+    {
+        "text":"Please help. My bookmarks disappeared after the latest Edge update and I cannot find them anywhere.",
+        "type":"clear",
+        "expected_action":"respond",
+        "hybrid_pred":"clarify",
+        "llm_pred":"respond"
+    },
+    {
+        "text":"Edge is using too much RAM when I open multiple tabs. Is there any setting to reduce memory usage?",
+        "type":"clear",
+        "expected_action":"respond",
+        "hybrid_pred":"respond",
+        "llm_pred":"respond"
+    },
+    {
+        "text":"How do I disable automatic translation popups in Microsoft Edge?",
+        "type":"clear",
+        "expected_action":"respond",
+        "hybrid_pred":"respond",
+        "llm_pred":"respond"
+    },
+    {
+        "text":"After the latest Windows update, Edge no longer opens PDF files correctly. It just shows a blank page.",
+        "type":"clear",
+        "expected_action":"respond",
+        "hybrid_pred":"respond",
+        "llm_pred":"respond"
+    },
+    {
+        "text":"My saved passwords are missing from Edge after syncing my Microsoft account. Can they be restored?",
+        "type":"clear",
+        "expected_action":"respond",
+        "hybrid_pred":"respond",
+        "llm_pred":"respond"
+    },
+    {
+        "text":"Edge crashes whenever I try to watch Netflix in fullscreen mode. What should I do?",
+        "type":"clear",
+        "expected_action":"respond",
+        "hybrid_pred":"escalate",
+        "llm_pred":"respond"
+    },
+    {
+        "text":"The browser keeps opening new tabs automatically when I click links from Outlook emails.",
+        "type":"clear",
+        "expected_action":"respond",
+        "hybrid_pred":"respond",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"I cannot enable dark mode in Edge even after changing the appearance settings.",
+        "type":"clear",
+        "expected_action":"respond",
+        "hybrid_pred":"respond",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"Microsoft Edge no longer detects my webcam during Google Meet calls, but the camera works in other apps.",
+        "type":"clear",
+        "expected_action":"respond",
+        "hybrid_pred":"respond",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"My Edge browser freezes for several seconds every time I open Developer Tools.",
+        "type":"clear",
+        "expected_action":"respond",
+        "hybrid_pred":"respond",
+        "llm_pred":"respond"
+    },
+    {
+        "text":"How can I stop Edge from automatically opening PDFs in the browser instead of downloading them?",
+        "type":"clear",
+        "expected_action":"respond",
+        "hybrid_pred":"respond",
+        "llm_pred":"respond"
+    },
+    {
+        "text":"Edge sync is stuck on 'Setting up sync' and never finishes.",
+        "type":"clear",
+        "expected_action":"respond",
+        "hybrid_pred":"respond",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"Whenever I try to upload files in Edge, the file picker window never appears.",
+        "type":"clear",
+        "expected_action":"respond",
+        "hybrid_pred":"respond",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"After switching monitors, Edge windows open outside the visible screen area.",
+        "type":"clear",
+        "expected_action":"respond",
+        "hybrid_pred":"respond",
+        "llm_pred":"respond"
+    },
+    {
+        "text":"Edge suddenly stopped autofilling my saved addresses during online purchases.",
+        "type":"clear",
+        "expected_action":"respond",
+        "hybrid_pred":"respond",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"Microsoft Edge keeps asking me to sign in even though I already logged into my Microsoft account.",
+        "type":"clear",
+        "expected_action":"respond",
+        "hybrid_pred":"escalate",
+        "llm_pred":"respond"
+    },
+    {
+        "text":"Edge is not working properly anymore.",
+        "type":"ambiguous",
+        "expected_action":"clarify",
+        "hybrid_pred":"clarify",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"Please help. My browser keeps acting weird lately.",
+        "type":"ambiguous",
+        "expected_action":"clarify",
+        "hybrid_pred":"clarify",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"I updated something and now nothing works.",
+        "type":"ambiguous",
+        "expected_action":"clarify",
+        "hybrid_pred":"clarify",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"Why is this happening on my computer?",
+        "type":"ambiguous",
+        "expected_action":"clarify",
+        "hybrid_pred":"clarify",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"My tabs disappeared and I don't know why.",
+        "type":"ambiguous",
+        "expected_action":"clarify",
+        "hybrid_pred":"respond",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"Can someone help me fix this issue asap?",
+        "type":"ambiguous",
+        "expected_action":"clarify",
+        "hybrid_pred":"clarify",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"The app keeps crashing randomly.",
+        "type":"ambiguous",
+        "expected_action":"clarify",
+        "hybrid_pred":"escalate",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"Everything was fine yesterday but now Edge is broken.",
+        "type":"ambiguous",
+        "expected_action":"clarify",
+        "hybrid_pred":"clarify",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"I cannot use the browser anymore 😡",
+        "type":"ambiguous",
+        "expected_action":"clarify",
+        "hybrid_pred":"escalate",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"Why can't I open websites anymore?",
+        "type":"ambiguous",
+        "expected_action":"clarify",
+        "hybrid_pred":"clarify",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"Something changed after the update and now I need help.",
+        "type":"ambiguous",
+        "expected_action":"clarify",
+        "hybrid_pred":"clarify",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"My browser is slow and weird.",
+        "type":"ambiguous",
+        "expected_action":"clarify",
+        "hybrid_pred":"clarify",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"Nothing loads correctly anymore.",
+        "type":"ambiguous",
+        "expected_action":"clarify",
+        "hybrid_pred":"clarify",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"Help!!! Microsoft Edge is unusable now.",
+        "type":"ambiguous",
+        "expected_action":"clarify",
+        "hybrid_pred":"escalate",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"The issue keeps coming back but I don't know why.",
+        "type":"ambiguous",
+        "expected_action":"clarify",
+        "hybrid_pred":"clarify",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"Why am I getting errors all the time now?",
+        "type":"ambiguous",
+        "expected_action":"clarify",
+        "hybrid_pred":"escalate",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"Edge stopped working after I changed some settings.",
+        "type":"ambiguous",
+        "expected_action":"clarify",
+        "hybrid_pred":"respond",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"This is extremely frustrating. Microsoft Edge crashes across all employee devices after the latest enterprise policy deployment and users cannot access internal applications.",
+        "type":"complex",
+        "expected_action":"escalate",
+        "hybrid_pred":"escalate",
+        "llm_pred":"escalate"
+    },
+    {
+        "text":"Our organization uses Azure AD login with Edge profiles and users are randomly losing synchronization tokens across multiple machines.",
+        "type":"complex",
+        "expected_action":"escalate",
+        "hybrid_pred":"escalate",
+        "llm_pred":"escalate"
+    },
+    {
+        "text":"Edge keeps deleting session cookies in our VDI environment after every reboot and it is affecting hundreds of users.",
+        "type":"complex",
+        "expected_action":"escalate",
+        "hybrid_pred":"respond",
+        "llm_pred":"escalate"
+    },
+    {
+        "text":"I am trying to recover a Microsoft account linked to a deleted Xbox account and support pages keep redirecting me in circles.",
+        "type":"complex",
+        "expected_action":"escalate",
+        "hybrid_pred":"respond",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"After migrating our company devices to Windows 11, Edge crashes whenever users connect through the corporate VPN.",
+        "type":"complex",
+        "expected_action":"escalate",
+        "hybrid_pred":"escalate",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"We are experiencing repeated browser failures after deploying security policies through Intune and need urgent assistance.",
+        "type":"complex",
+        "expected_action":"escalate",
+        "hybrid_pred":"respond",
+        "llm_pred":"escalate"
+    },
+    {
+        "text":"This issue has been happening for months and none of the suggested fixes work. Edge crashes constantly during financial transactions.",
+        "type":"complex",
+        "expected_action":"escalate",
+        "hybrid_pred":"escalate",
+        "llm_pred":"escalate"
+    },
+    {
+        "text":"My Microsoft account appears to be compromised and Edge sync is exposing passwords across devices.",
+        "type":"complex",
+        "expected_action":"escalate",
+        "hybrid_pred":"respond",
+        "llm_pred":"escalate"
+    },
+    {
+        "text":"Edge fails to authenticate users after SSO federation changes in our enterprise environment.",
+        "type":"complex",
+        "expected_action":"escalate",
+        "hybrid_pred":"escalate",
+        "llm_pred":"escalate"
+    },
+    {
+        "text":"This is very frustrating. Our school computers can no longer access educational websites after the latest Edge security update.",
+        "type":"complex",
+        "expected_action":"escalate",
+        "hybrid_pred":"respond",
+        "llm_pred":"clarify"
+    },
+    {
+        "text":"Edge repeatedly crashes with different error codes after GPU driver updates on multiple workstations.",
+        "type":"complex",
+        "expected_action":"escalate",
+        "hybrid_pred":"escalate",
+        "llm_pred":"escalate"
+    },
+    {
+        "text":"We are unable to restore user profiles after a synchronization failure between Edge and Microsoft accounts.",
+        "type":"complex",
+        "expected_action":"escalate",
+        "hybrid_pred":"escalate",
+        "llm_pred":"escalate"
+    },
+    {
+        "text":"Multiple users are reporting corrupted downloads and incomplete files after recent Windows security patches.",
+        "type":"complex",
+        "expected_action":"escalate",
+        "hybrid_pred":"respond",
+        "llm_pred":"escalate"
+    },
+    {
+        "text":"I already contacted support several times and the browser still fails whenever I try to access government authentication portals.",
+        "type":"complex",
+        "expected_action":"escalate",
+        "hybrid_pred":"respond",
+        "llm_pred":"escalate"
+    },
+    {
+        "text":"Edge is blocking critical enterprise extensions required for our internal systems and we cannot override the restriction.",
+        "type":"complex",
+        "expected_action":"escalate",
+        "hybrid_pred":"respond",
+        "llm_pred":"escalate"
+    },
+    {
+        "text":"This started after a domain migration and now none of our users can log into Edge profiles using company credentials.",
+        "type":"complex",
+        "expected_action":"escalate",
+        "hybrid_pred":"escalate",
+        "llm_pred":"clarify"
+    }
+]

@@ -1,0 +1,96 @@
+"text","type","expected_action","hybrid_pred"
+"I have been trying to sign into prime video on my account and my P.C consistently gives me an ""ask an adult"" window but gives me an error when ever i send the request, i am an adult and the only one on this account.,,","","","escalate"
+"Hi, I need help. I have been trying to sign into prime video on my account and my P.C consistently gives me an ""ask an adult"" window but gives me an error when ever i  Is there a solution?,,","","","escalate"
+"This is very frustrating. I have been trying to sign into prime video on my account and my P.C consistently gives me an ""ask an adult"" window but  It keeps happening and I need urgent help.,,","","","respond"
+"Ask an adult issue. I have been trying to sign into prime video on my account and my P.C consistently gives me an ""ask a,,","","","respond"
+"Please help. I've checked all my permissions in the settings app as well as the Edge settings. Everything is as it should be. I've uninstalled and reinstalled the  ","","","respond"
+"This is very frustrating. I've checked all my permissions in the settings app as well as the Edge settings. Everything is as it should be. I've un It keeps happening and I need urgent help.","","","escalate"
+"My microphone isn't working on Edge. I've checked all my permissions in the settings app as well as the Edge settings. Everything is as i","","","respond"
+"I still cannot figure out why does Microsoft Edge sometimes (randomly) partially minimizes itself.  I usually run about 5-10 open Edge Windows in FULL-DISPLAY-SIZE mode, and within many of them, I may have anywhere from 2 – 10 tabs.
+My system is this:  Running Windows 11 Pro (16 GB) Desktop PC with two monitors in full 4K (3840 x 2160), using DisplayPort connectors with Nvidia 4070 Ti card with driver 595.79.   My Display Scale is set to 150% (recommended).    I have my “Power” setting set to the following:   Turn Off monitor after 15 minutes, Make my Device Sleep = Never and Make My Device Hibernate = Never.
+Please see the next three screenshots of what happens:
+1 - This is when the Edge window is randomly minimized.
+ Edge Small - 1.jpg
+2 - This is when I try to click the “Max the Window” and as soon as I hover my mouse hover over it, I get these different “looks” pop up.  I just ignore them and click on the Maximize and this happens:
+Edge Small - 2.jpg 
+3 -I then click Maximize again, and the Edge is back to full, normal size as I always want it to be.
+What going on there?   I have read that some USB devices my trigger this, but I don’t plug in or take out any USB devices, and sometimes my system works perfectly for days at a time, and sometimes, these random Edge window minimizations happen 3 or 4 times per day.  Also, sometimes these issues “fix themselves” on their own without any clicking on Edge Window size manipulation.
+This situation has been going on for at least 6 months, so plenty of Windows’s updates and graphic driver updates have happened over the time.  I have not changed any hardware in my PC for over a year and otherwise, my system works perfectly.
+Any suggestions / feedback is much appreciated.,,","","","respond"
+"This is really frustrating. I still cannot figure out why does Microsoft Edge sometimes (randomly) partially minimizes itself.  I usually run about 5-10 open Edge Windows in FULL What should I do?","","","respond"
+"This is very frustrating. I still cannot figure out why does Microsoft Edge sometimes (randomly) partially minimizes itself.  I usually run about  It keeps happening and I need urgent help.","","","respond"
+"Why does Microsoft Edge sometimes (randomly) partially minimizes itself?. I still cannot figure out why does Microsoft Edge sometimes (randomly) partially minimizes itself.  ","","","respond"
+"Hi.
+On our DELL Vostro 15 3510 laptops the sound worked fine in windows 10. After upgrading til windows 11 we have a periodically problem with the sound disapperaring in edge and chrome. The test sound if you turn the volume up or down in the bottom right corner at the deskop is working as normal. So there is sound in the internal speakers.
+We have tried to reinstall sound driver directly from dell.com and this get the sound working for some time. But the problem soon is back. I have tried to have a look at the sound settings in control panel to see if edge is not allowed to play sound, but everything is allowed here.
+What steps can we take to fix this issue?
+The problem was not there in windows 10.
+Best regards.,,","","","respond"
+"I don't understand what's happening. Hi.
+On our DELL Vostro 15 3510 laptops the sound worked fine in windows 10. After upgrading til windows 11 we have a periodically problem with the sou What should I do?,,","","","respond"
+"This is very frustrating. Hi.
+On our DELL Vostro 15 3510 laptops the sound worked fine in windows 10. After upgrading til windows 11 we have a per It keeps happening and I need urgent help.,,","","","respond"
+"On DELL Vostro 15 3510 the sound disappears periodically in windows 11. If we reinstall original dell driver the sound is back for some time, but soon disappears again.. Hi.
+On our DELL Vostro 15 3510 laptops the sound worked fine in windows 10. After upgrading til wind,,","","","respond"
+"I change the default value to disabled in ""edge://flags/#local-network-access-check"" and reconnect via restart, it returns to the default value. Is there a workaround?,,","","","respond"
+"Please help. I change the default value to disabled in ""edge://flags/#local-network-access-check"" and reconnect via restart, it returns to the default value. Is th Any suggestions?,,","","","respond"
+"This is very frustrating. I change the default value to disabled in ""edge://flags/#local-network-access-check"" and reconnect via restart, it retur It keeps happening and I need urgent help.,,","","","respond"
+"edge://flags/#local-network-access-check error. I change the default value to disabled in ""edge://flags/#local-network-access-check"" and reconnect v,,","","","escalate"
+"Forth request for help. Links on any microsoft page don't work.","","","clarify"
+"This is very frustrating. Forth request for help. Links on any microsoft page don't work. It keeps happening and I need urgent help.","","","escalate"
+"links won't open in microsoft pages. Forth request for help. Links on any microsoft page don't work.","","","clarify"
+"This is very frustrating. I have a problem with printing from the latest version of Microsoft Edge. When I select some text on the browser and cho It keeps happening and I need urgent help.","","","respond"
+"Can't save PDF documents using Microsoft Edge.. I have a problem with printing from the latest version of Microsoft Edge. When I select some text on","","","respond"
+"Routinely I download and save files the same way I've always done for years, but now for the past few weeks I've routinely noticed that a download will stop downloading or only save as a TMP file instead of the designated file type and the download will not complete nor will I be able to try and save anything else until all temp files area deleted and/or the whole computer is restarted
+I never had this issue until recently and now it's returning time and time again, how do I prevent it from happening in the first place?,,","","","respond"
+"Greetings.
+I'm not sure if this is something related to Windows or Edge, but since a couple weeks the behaviour has changed regarding opening links from apps outside Edge.
+I use several virtual desktops and I usuallly I leave Edge windows opened in these desktops. Normally, when I'm in a desktop that doesn't have an Edge window opened, whenever I click on a weblink in any app (Outlook, Teams, etc.) a new Edge window would open in that desktop. But since a couple of weeks, links now open in a different desktop that has an Edge window opened, so I find myself jumping from desktop to desktop without wanting to.
+I don't know if anyone is familiar with this issue. Hopefully there's a fix.
+Thank you in advance,,,","","","respond"
+"Please help. Greetings.
+I'm not sure if this is something related to Windows or Edge, but since a couple weeks the behaviour has changed regarding opening links fr How can I fix this?,,","","","respond"
+"This is very frustrating. Greetings.
+I'm not sure if this is something related to Windows or Edge, but since a couple weeks the behaviour has chan It keeps happening and I need urgent help.,,","","","respond"
+"Open links outside Edge in a new window. Greetings.
+I'm not sure if this is something related to Windows or Edge, but since a couple weeks th,,","","","respond"
+"I recently lost my Playstaition account and I had my main Minecraft account so I made a new PS account but when I tried logging in to my Microsoft account it said already linked so I didn’t know what to do but I have all the details of the account but I still don’t know how to contact mojang","","","escalate"
+"I'm having an issue. I recently lost my Playstaition account and I had my main Minecraft account so I made a new PS account but when I tried logging in to my Microsoft acc Any suggestions?","","","escalate"
+"This is very frustrating. I recently lost my Playstaition account and I had my main Minecraft account so I made a new PS account but when I tried  It keeps happening and I need urgent help.","","","respond"
+"Unlink Microsoft account on PlayStation network. I recently lost my Playstaition account and I had my main Minecraft account so I made a new PS accou","","","respond"
+"Hi,
+I am wondering where the rest of the immersive reader tools have gone from Microsoft Edge.
+There is no longer reading preferences or text preferences. My students used these a lot and now they are gone.
+Is there a way to get the old immersive reader tools back? We already had access to the Read Aloud tool, so why the transition to Read Mode instead of Immersive reader?
+Kind regards
+[moderator's note: PII removed],,","","","respond"
+"I don't understand what's happening. Hi,
+I am wondering where the rest of the immersive reader tools have gone from Microsoft Edge.
+There is no longer reading preferences or text preferen ,,","","","respond"
+"This is very frustrating. Hi,
+I am wondering where the rest of the immersive reader tools have gone from Microsoft Edge.
+There is no longer readin It keeps happening and I need urgent help.,,","","","escalate"
+"Immersive reader change on Microsoft edge. Hi,
+I am wondering where the rest of the immersive reader tools have gone from Microsoft Edge.
+There,,","","","respond"
+"To Customer Service,
+Copilot is not working? Can you please help me to fix the issue asap.,,","","","clarify"
+"I'm having an issue. To Customer Service,
+Copilot is not working? Can you please help me to fix the issue asap. This started recently.,,","","","respond"
+"This is very frustrating. To Customer Service,
+Copilot is not working? Can you please help me to fix the issue asap. It keeps happening and I need urgent help.,,","","","escalate"
+"Copilot not working I need urgent help on this. To Customer Service,
+Copilot is not working? Can you please help me to fix the issue asap.,,","","","respond"
+"This is the error I get on my iPhone:
+AADSTS165000: Invalid Request: The user session context is missing. One or more of the user context values (cookies; form fields; headers) were not supplied, every request must include these values and maintain them across a complete single user flow.,,","","","escalate"
+"I'm having an issue. This is the error I get on my iPhone:
+AADSTS165000: Invalid Request: The user session context is missing. One or more of the user context values (cook This started recently.,,","","","escalate"
+"This is very frustrating. This is the error I get on my iPhone:
+AADSTS165000: Invalid Request: The user session context is missing. One or more of It keeps happening and I need urgent help.,,","","","escalate"
+"Cannot Login on iPhone. This is the error I get on my iPhone:
+AADSTS165000: Invalid Request: The user session context is mis,,","","","escalate"
+"after selecting the language it displays error 715-123130 and error 8fc4f7a5-2be2-405c-9f09-e3f4405261c6. What can i do? I need to install it on a pen drive but i seriously can't because of these errors. I don't have a vpn or any google extension that could give me these errors.","","","escalate"
+"This is really frustrating. after selecting the language it displays error 715-123130 and error 8fc4f7a5-2be2-405c-9f09-e3f4405261c6. What can i do? I need to install it on a pen Any suggestions?","","","escalate"
+"This is very frustrating. after selecting the language it displays error 715-123130 and error 8fc4f7a5-2be2-405c-9f09-e3f4405261c6. What can i do? It keeps happening and I need urgent help.","","","escalate"
+"I have repaired it restarted computer and chrome still opens","","","respond"
+"Please help. I have repaired it restarted computer and chrome still opens This started recently.","","","clarify"

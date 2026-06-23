@@ -1,0 +1,1066 @@
+[
+  {
+    "url": "https://learn.microsoft.com/en-us/answers/questions/5869243/ask-an-adult-issue",
+    "title": "Ask an adult issue",
+    "question": {
+      "text": "I have been trying to sign into prime video on my account and my P.C consistently gives me an \"ask an adult\" window but gives me an error when ever i send the request, i am an adult and the only one on this account.",
+      "comments": [
+        "I have verified that my date of birth is correct SEVERAL times, I've tried to create a new account and just get lost with everything that it ask me to set up, when i try to call the customer service number i get met with an A.I that hangs up in my face. My PC seems to only run on Microsoft and yet no one seems to be able to help me. Is there i number where i can speak to a REAL person to get the issue sorted out instead of being sent down several loop holes and wastes of time?"
+      ]
+    },
+    "answers": [
+      {
+        "text": "Thanks for your response, Edwin. Are you using an admin or a standard account? I might have a solution depending on your reply.",
+        "is_accepted": false,
+        "is_ai": false,
+        "comments": []
+      },
+      {
+        "text": "Hi Edwin, You microsoft account date of birth might be incorrect, which is why you are looping in to this error.\nCreate a new Microsoft account so you have a fresh “adult” account that can act as a Family Organizer.\nSign in with this new account and go to family.microsoft.com.\nCreate a Family group (or join one) using the new account.\nAdd your current Microsoft account to this Family group and accept the invitation when prompted.\nOnce your current account is part of the family, you’ll be able to change its Date of Birth because the new account acts as the organizer.\nAfter updating the DOB, you can remove the accounts from the Family group if you no longer need it\nAlso, via https://support.microsoft.com/en-US/family-safety/managing-parental-consent\nWhy am I required to provide consent even though I am above statutory age? The birthdate on your account indicates that you're underage. Use our interactive tool to help guide you to the right steps to correct it. Start\nI’m eager to hear back and work together to find a solution.",
+        "is_accepted": false,
+        "is_ai": false,
+        "comments": [
+          "I have verified that my date of birth is correct SEVERAL times, I've tried to create a new account and just get lost with everything that it ask me to set up, when i try to call the customer service number i get met with an A.I that hangs up in my face. My PC seems to only run on Microsoft and yet no one seems to be able to help me. Is there i number where i can speak to a REAL person to get the issue sorted out instead of being sent down several loop holes and wastes of time?"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/answers/questions/5862460/my-microphone-isnt-working-on-edge",
+    "title": "My microphone isn't working on Edge",
+    "question": {
+      "text": "I've checked all my permissions in the settings app as well as the Edge settings. Everything is as it should be. I've uninstalled and reinstalled the microphone driver. I've tried everything. My microphone works fine on the Teams, Zoom, Discord, Voice Recorder, etc. apps but the moment I try to use any of that through Edge, it stops working. I can't understand what the issue is or how to fix it.",
+      "comments": [
+        "Hey. I just installed Google Chrome and it doesn't seem to be working on there either. I closed all other apps while testing it but it's not picking up on my voice. Same with every website I've tried on Edge. It tells me in the microphone settings that the mic was last used whenever I tried to test my mic (ie. in a voice recorder website) but the actual recorder picks up nothing.",
+        "I checked on a voice recording website on Edge Beta and it's still not picking up anything on the microphone",
+        "This hasn't worked either, unfortunately. I know it's not a hardware issue though because even just now, I tested my mic on a voice recording website and on the voice recorder app, and it works perfectly on the app.",
+        "Hi. Unfortunately, this has still not resolved the issue.\nI saw someone mention for a similar problem somewhere else that it might be an issue in the registry but I don't know how to navigate through that or what each thing does.",
+        "I've already done this multiple times and it's not fixing the issue. This is what the page looks like."
+      ]
+    },
+    "answers": [
+      {
+        "text": "Hello, thank you for your reply.\nCan I use the microphone on other websites? Can I use the microphone normally on other browsers?\nWhen opening recording websites, please close all voice software (including background processes) to prevent some software from secretly using your microphone.",
+        "is_accepted": false,
+        "is_ai": false,
+        "comments": [
+          "Hey. I just installed Google Chrome and it doesn't seem to be working on there either. I closed all other apps while testing it but it's not picking up on my voice. Same with every website I've tried on Edge. It tells me in the microphone settings that the mic was last used whenever I tried to test my mic (ie. in a voice recorder website) but the actual recorder picks up nothing."
+        ]
+      },
+      {
+        "text": "Hello, thank you for your reply.\nPlease check the Edge preview version to see if everything is working properly.\nhttps://www.microsoft.com/edge/download/insider",
+        "is_accepted": false,
+        "is_ai": false,
+        "comments": [
+          "I checked on a voice recording website on Edge Beta and it's still not picking up anything on the microphone"
+        ]
+      },
+      {
+        "text": "Please open the Task Manager and terminate all running Edge processes. Then, press Win + R simultaneously and enter: %localappdata%\\Microsoft\\Edge\nDelete the User Data folder, then reopen Edge to see if it functions normally again.\nPlease be aware that deleting this folder may result in the loss of your Microsoft Edge user data. This directory contains information such as your user profiles, extensions, bookmarks, browsing history, passwords, and more.\nAlthough Edge data is typically backed up to the cloud—meaning that after deleting this folder and signing back into your Microsoft account, your data should generally synchronize back—we still recommend backing up your data beforehand as a precautionary measure.",
+        "is_accepted": false,
+        "is_ai": false,
+        "comments": [
+          "This hasn't worked either, unfortunately. I know it's not a hardware issue though because even just now, I tested my mic on a voice recording website and on the voice recorder app, and it works perfectly on the app."
+        ]
+      },
+      {
+        "text": "Hello, thank you for your reply.\nEnter edge://settings/reset in the address bar.\nClick \"Restore settings to their defaults.\"\nSee if this resolves the issue.",
+        "is_accepted": false,
+        "is_ai": false,
+        "comments": [
+          "Hi. Unfortunately, this has still not resolved the issue.\nI saw someone mention for a similar problem somewhere else that it might be an issue in the registry but I don't know how to navigate through that or what each thing does."
+        ]
+      },
+      {
+        "text": "Hello,\nGo to Edge Settings → Privacy → Site Permissions → Microphone. Delete the corresponding website, reopen the website, and then grant microphone permissions again.\nYou also need to check that when you enter ,in the Edge address bar,\nedge://settings/privacy/sitePermissions/allPermissions/microphone\nyou are ensuring that the correct microphone is selected.",
+        "is_accepted": false,
+        "is_ai": false,
+        "comments": [
+          "I've already done this multiple times and it's not fixing the issue. This is what the page looks like."
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/answers/questions/5865267/why-does-microsoft-edge-sometimes-(randomly)-parti",
+    "title": "Why does Microsoft Edge sometimes (randomly) partially minimizes itself?",
+    "question": {
+      "text": "I still cannot figure out why does Microsoft Edge sometimes (randomly) partially minimizes itself.  I usually run about 5-10 open Edge Windows in FULL-DISPLAY-SIZE mode, and within many of them, I may have anywhere from 2 – 10 tabs.\nMy system is this:  Running Windows 11 Pro (16 GB) Desktop PC with two monitors in full 4K (3840 x 2160), using DisplayPort connectors with Nvidia 4070 Ti card with driver 595.79.   My Display Scale is set to 150% (recommended).    I have my “Power” setting set to the following:   Turn Off monitor after 15 minutes, Make my Device Sleep = Never and Make My Device Hibernate = Never.\nPlease see the next three screenshots of what happens:\n1 - This is when the Edge window is randomly minimized.\n Edge Small - 1.jpg\n2 - This is when I try to click the “Max the Window” and as soon as I hover my mouse hover over it, I get these different “looks” pop up.  I just ignore them and click on the Maximize and this happens:\nEdge Small - 2.jpg \n3 -I then click Maximize again, and the Edge is back to full, normal size as I always want it to be.\nWhat going on there?   I have read that some USB devices my trigger this, but I don’t plug in or take out any USB devices, and sometimes my system works perfectly for days at a time, and sometimes, these random Edge window minimizations happen 3 or 4 times per day.  Also, sometimes these issues “fix themselves” on their own without any clicking on Edge Window size manipulation.\nThis situation has been going on for at least 6 months, so plenty of Windows’s updates and graphic driver updates have happened over the time.  I have not changed any hardware in my PC for over a year and otherwise, my system works perfectly.\nAny suggestions / feedback is much appreciated.",
+      "comments": [
+        "Thanks for your reply.\nHere are my answers:\nDo you have this issue in any other browsers or app? File Explorer count too.\nNO, it only happens on Edge and I don't even have any other browsers installed.\nDo you also encounter this when switch between Windows and games? Especially old games.\nNO, I don't even have games running. Only Outlook and Edge.\nDoes this also happen if you disconnect one of the monitor?\nI never tried that.",
+        "Hello Michael Wexin,\nThanks for replying.\nThis actually happens to me sometimes. But for most of the time it is because of the native resolution of old games and apps that no longer receive updates. Usually, it can be fixed by changing the resolutions of the affected apps, which depends on whether or not your GPU supports this function.\nAdditionally, can you please try to disconnect one monitor, it will help to see where the issue come from.",
+        "Hi. I don't have or play any games when this happens. It's a very strange behavior that appears and disappears days at a time."
+      ]
+    },
+    "answers": [
+      {
+        "text": "Please note that our forum is a public platform, and we will modify your question to hide your personal information in the description. Kindly ensure that you hide any personal or organizational information the next time you post an error or other details to protect personal data.\nHello Michael Wexin,\nWelcome to Microsoft Q&A forum.\nBefore we proceed further, I'd like to ask a few questions to better understand the situation.\nDo you have this issue in any other browsers or app? File Explorer count too.\nDo you also encounter this when switch between Windows and games? Especially old games.\nDoes this also happen if you disconnect one of the monitor?\nI'm waiting for your reply.",
+        "is_accepted": false,
+        "is_ai": false,
+        "comments": [
+          "Thanks for your reply.\nHere are my answers:\nDo you have this issue in any other browsers or app? File Explorer count too.\nNO, it only happens on Edge and I don't even have any other browsers installed.\nDo you also encounter this when switch between Windows and games? Especially old games.\nNO, I don't even have games running. Only Outlook and Edge.\nDoes this also happen if you disconnect one of the monitor?\nI never tried that.",
+          "Hello Michael Wexin,\nThanks for replying.\nThis actually happens to me sometimes. But for most of the time it is because of the native resolution of old games and apps that no longer receive updates. Usually, it can be fixed by changing the resolutions of the affected apps, which depends on whether or not your GPU supports this function.\nAdditionally, can you please try to disconnect one monitor, it will help to see where the issue come from.",
+          "Hi. I don't have or play any games when this happens. It's a very strange behavior that appears and disappears days at a time."
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/answers/questions/5870159/on-dell-vostro-15-3510-the-sound-disappears-period",
+    "title": "On DELL Vostro 15 3510 the sound disappears periodically in windows 11. If we reinstall original dell driver the sound is back for some time, but soon disappears again.",
+    "question": {
+      "text": "Hi.\nOn our DELL Vostro 15 3510 laptops the sound worked fine in windows 10. After upgrading til windows 11 we have a periodically problem with the sound disapperaring in edge and chrome. The test sound if you turn the volume up or down in the bottom right corner at the deskop is working as normal. So there is sound in the internal speakers.\nWe have tried to reinstall sound driver directly from dell.com and this get the sound working for some time. But the problem soon is back. I have tried to have a look at the sound settings in control panel to see if edge is not allowed to play sound, but everything is allowed here.\nWhat steps can we take to fix this issue?\nThe problem was not there in windows 10.\nBest regards.",
+      "comments": [
+        "The sound also disappears via the headphone, but the video continue to play in both cases. We have not the built in dell advisor software that the current Cirrus Logic High Definition Audio-driver requiers for full features. But that was never a problem before. No third party applicatons, apart from Promethean activboard for smart screens from promethean",
+        "Hi,\nThe sound only stops in the browser. If you're listening to something else without using the browser, does the sound stop there too?\nThanks",
+        "Hi,\nDoes the sound only stop in the browser?\nThanks.",
+        "The sound is missing also in an app like VLC Media Player. We tried to play a video with sound now, but no sound from VLC either. But there is sound if you turn up or down the volume generating windows test sound.",
+        "If we now restart the computer, there will be sound as normal for some time. But this problem soon reappears."
+      ]
+    },
+    "answers": [
+      {
+        "text": "Hi,\nIn your case, did you try connecting the headphones to the jack and trying to listen to the sound? Does it stop there as well, or only through the internal speakers?\nIf you try to watch a video or listen to music in a browser, does it continue to play?\nDo you have any third-party applications like VB-Audio?\nThanks",
+        "is_accepted": false,
+        "is_ai": false,
+        "comments": [
+          "The sound also disappears via the headphone, but the video continue to play in both cases. We have not the built in dell advisor software that the current Cirrus Logic High Definition Audio-driver requiers for full features. But that was never a problem before. No third party applicatons, apart from Promethean activboard for smart screens from promethean",
+          "Hi,\nThe sound only stops in the browser. If you're listening to something else without using the browser, does the sound stop there too?\nThanks",
+          "Hi,\nDoes the sound only stop in the browser?\nThanks.",
+          "The sound is missing also in an app like VLC Media Player. We tried to play a video with sound now, but no sound from VLC either. But there is sound if you turn up or down the volume generating windows test sound.",
+          "If we now restart the computer, there will be sound as normal for some time. But this problem soon reappears."
+        ]
+      },
+      {
+        "text": "Perform the following steps on one of the affected Vostro 15 3510 devices and verify if the issue stops recurring.\nUpdate the audio driver via Device Manager\nIn the search box on the taskbar, type device manager, then select it.\nExpand Sound, video and game controllers.\nRight‑click the internal audio device (e.g., Realtek/Intel audio), select Update driver.\nSelect Search automatically for drivers and complete the wizard.\nTest audio in Edge/Chrome.\nIf the problem returns, clean‑reinstall the audio driver\nOpen Device Manager again and expand Sound, video and game controllers.\nRight‑click the audio device and select Uninstall device.\nCheck Attempt to remove the driver for this device (or Delete the driver software for this device on Windows 10/11 variants), then select Uninstall.\nRestart the PC (this will trigger automatic reinstallation of the audio driver).\nTest audio in Edge and Chrome after reboot.\nTry the generic Windows audio driver If the OEM driver keeps failing over time, switch to the generic driver that ships with Windows:\nOpen Device Manager → expand Sound, video and game controllers.\nRight‑click the audio device → Update driver.\nSelect Browse my computer for drivers → Let me pick from a list of available drivers on my computer.\nSelect the generic audio driver listed there and complete the installation.\nRestart if prompted and test audio in Edge/Chrome.\nIf audio broke after a Windows Update, roll back the driver\nOpen Device Manager → expand Sound, video and game controllers.\nRight‑click the audio device → Properties.\nGo to the Driver tab and select Roll Back Driver (if available).\nFollow the prompts and confirm with Yes.\nTest audio in Edge/Chrome.\nIf rollback is unavailable or ineffective, restore from a system restore point Windows creates restore points when installing updates. Restoring to a point where audio was stable can resolve driver regressions. Follow the \"Restore from a system restore point\" steps in Recovery options in Windows referenced in the documentation.\nIf, after these steps, audio still periodically disappears only in browsers while system sounds continue to work, keep the generic Windows audio driver in place and avoid reinstalling the OEM driver, as the OEM package may not be fully stable on Windows 11 for this model.\nReferences:\nFix sound or audio problems in Windows\nNO SOUND DEVICE INSTALLED - Microsoft Q&A\nAudio quality suddenly awful in Windows 11 - Microsoft Q&A\nHow to fix this. no audio device is installed - Microsoft Q&A\nMy audio inputs and outputs suddenly disappeared, how do i fix this? - Microsoft Q&A\nI don't see an audio input device - Microsoft Q&A",
+        "is_accepted": false,
+        "is_ai": true,
+        "comments": []
+      }
+    ]
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/answers/questions/5866993/edge-flags-local-network-access-check-error",
+    "title": "edge://flags/#local-network-access-check error",
+    "question": {
+      "text": "I change the default value to disabled in \"edge://flags/#local-network-access-check\" and reconnect via restart, it returns to the default value. Is there a workaround?",
+      "comments": [
+        "Thank you for your answer. I checked it through the registry editor, and my registry path is HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Edge\\URLAllowlist and HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Edge\\URLWhitelist. Can you tell me in detail what I need to add or change here??",
+        "Hello DK_IT,\nThe key that we need to use is HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Edge\\LocalNetworkAccessAllowedForUrls. If you cannot find any, you can create the key. Then, you will need to create a String (REG_SZ), set the named as numbers in ascending orders, and put the sites you want into the list.Just want to make sure, why do you need to disable local network access check? It is because of the prompt?",
+        "Thank you for your answer. The program we use requires access to the internal PC network, but it is not constantly accessible, so we found that if we change the Local Network Access Checks to Disabled, it can be connected. However, in certain PCs, it does not change even if it changes to Disabled, so we are looking for a solution. Even if you follow the method you gave us, the error still persists.",
+        "Hi\nThank you for an update. Please give us some time to see what we can add in into this. Thank you for your understanding"
+      ]
+    },
+    "answers": [
+      {
+        "text": "Hello DK_IT,\nWelcome to Microsoft Q&A forum.\nThe features that you are asking about is a flag. They are an experimental feature, so the flags showing there might be temporary and could be removed. Also, in Chromium (Edge's foundation), any flags could be removed after restart.\nAs I checked, the commands to control it is now obsolete and no longer work. However, you can use the allow list for it. The registry path for it is HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Edge\\LocalNetworkAccessAllowedForUrls\nDisclaimer: Generally, modifying registry subkeys or work group is intended for advanced users, administrators, and IT Professionals. It can help fix some problems, however, serious problems might occur if you modify the registry incorrectly. Therefore, make sure that you follow these steps carefully. For further protection, back up the registry before you modify it. Then, you can restore the registry if a problem occurs. For more information about how to back up and restore the registry, click How to back up and restore the registry in Windows - Microsoft Support to view the article.\nIf the answer is helpful, please click \"Accept Answer\" and kindly upvote it. If you have extra questions about this answer, please click \"Comment\".\nNote: Please follow the steps in our documentation to enable e-mail notifications if you want to receive the related email notification for this thread.",
+        "is_accepted": false,
+        "is_ai": false,
+        "comments": [
+          "Thank you for your answer. I checked it through the registry editor, and my registry path is HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Edge\\URLAllowlist and HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Edge\\URLWhitelist. Can you tell me in detail what I need to add or change here??",
+          "Hello DK_IT,\nThe key that we need to use is HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Edge\\LocalNetworkAccessAllowedForUrls. If you cannot find any, you can create the key. Then, you will need to create a String (REG_SZ), set the named as numbers in ascending orders, and put the sites you want into the list.Just want to make sure, why do you need to disable local network access check? It is because of the prompt?",
+          "Thank you for your answer. The program we use requires access to the internal PC network, but it is not constantly accessible, so we found that if we change the Local Network Access Checks to Disabled, it can be connected. However, in certain PCs, it does not change even if it changes to Disabled, so we are looking for a solution. Even if you follow the method you gave us, the error still persists.",
+          "Hi\nThank you for an update. Please give us some time to see what we can add in into this. Thank you for your understanding"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/answers/questions/5870793/links-wont-open-in-microsoft-pages",
+    "title": "links won't open in microsoft pages",
+    "question": {
+      "text": "Forth request for help. Links on any microsoft page don't work.",
+      "comments": [
+        "Tried your solutions. They don't work. Your customer service stinks",
+        "Nothing happens. If I want to open a link I have to copy it and open in a different browser. Just to be clear, the issue is when attempting to open a link on MSN. I did try clicking on your example link and yes, it opened the link in the new tab. I tried going back to MSN, right clicking and opening in a new tab, still nothing happens. I did try clearing history, cache and cookies several days ago and did not seem to help. Laslty. not sure how to access incognito. Thanks.",
+        "Hello,\nIt appears that you are only having issues opening links on MSN, not on all Microsoft web pages.\n================================================\nLet us try incognito tab-\nTo access the incognito tab on your web browser,\npress CTRL + SHIFT + N on your keyboard to bring up the incognito tab.\nGo to https://www.msn.com/en-us (Copy and paste this link in the address bar).\nSee if you can click the links there and check whether they work."
+      ]
+    },
+    "answers": [
+      {
+        "text": "Hello, thank you for reaching out to Microsoft Q&A.\nWhat happens when you click the links on Microsoft pages - do they do nothing, show an error, or open a blank page?\n--*\nAre you experiencing the same behavior in incognito mode?\nPlease open an Incognito/Private browsing window on any web browser and navigate to any Microsoft page.\nFor example:\nhttps://support.microsoft.com/en-US/office/system-requirements/microsoft-365-and-office-resources\nOn that page, right-click any link and select “Open in new tab”, or simply click the links normally.\nLet me know whether the links open correctly there.\n--*\nAlternatively, you can try clearing your browsing history, cache and cookies to see if resovles the issue.",
+        "is_accepted": false,
+        "is_ai": false,
+        "comments": [
+          "Nothing happens. If I want to open a link I have to copy it and open in a different browser. Just to be clear, the issue is when attempting to open a link on MSN. I did try clicking on your example link and yes, it opened the link in the new tab. I tried going back to MSN, right clicking and opening in a new tab, still nothing happens. I did try clearing history, cache and cookies several days ago and did not seem to help. Laslty. not sure how to access incognito. Thanks.",
+          "Hello,\nIt appears that you are only having issues opening links on MSN, not on all Microsoft web pages.\n================================================\nLet us try incognito tab-\nTo access the incognito tab on your web browser,\npress CTRL + SHIFT + N on your keyboard to bring up the incognito tab.\nGo to https://www.msn.com/en-us (Copy and paste this link in the address bar).\nSee if you can click the links there and check whether they work."
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/answers/questions/5864676/cant-save-pdf-documents-using-microsoft-edge",
+    "title": "Can't save PDF documents using Microsoft Edge.",
+    "question": {
+      "text": "I have a problem with printing from the latest version of Microsoft Edge. When I select some text on the browser and choose Print → 'Save As Pdf', it doesn't work.",
+      "comments": [
+        "Hi John, 1st and foremost I am so grateful that you have responded to my problem. Thanks ever so much. GOD bless you!\nBut, as you see, it took me quite a while to get back to you, and the reasons are: 1. I work long shifts and not always aware right away if someone answered my problem. 2. I tried your 1st solution trying to \"modify\" Edge. At the final stage it seems Edge was not functioning well (modifying took literally hours, and nothing happened). I am going to try that again."
+      ]
+    },
+    "answers": [
+      {
+        "text": "Hi, I'm John! I will help you with this.\nTo help narrow down the issue:\nWhen you click Print > Save as PDF, what exactly happens? Nothing happens, or save window doesn’t appear? Or do you get an error?\nAlso check if it does work in InPrivate window? Or if it work in another browser like Chrome?\nIn the meantime, if you haven’t already:\nTo fix the problem with Microsoft Edge, please follow these steps to repair Microsoft Edge:\nMake sure your browser is closed, and you have administrative rights to your device.\nPress the Windows + I key to open Settings. > Click on the \"Apps\" tab.\nClick on \"Installed apps.\" > Scroll through the app list or use the search bar to locate the Microsoft Edge.\nClick the three-dots menu (...) next to Microsoft Edge and select \"Modify\"\nWhen prompted to allow changes, select Yes.\nNow, make sure you're connected to the internet and choose Repair. - This process should not affect your browser data and settings.\nWait for the process to complete, after that, Edge will open, close it and restart your PC.\nIf the issue persists, please provide more details by answering my questions.\nClick \"Add comment\" below to let me know.\nRegards,\nJohn J.D.",
+        "is_accepted": false,
+        "is_ai": false,
+        "comments": [
+          "Hi John, 1st and foremost I am so grateful that you have responded to my problem. Thanks ever so much. GOD bless you!\nBut, as you see, it took me quite a while to get back to you, and the reasons are: 1. I work long shifts and not always aware right away if someone answered my problem. 2. I tried your 1st solution trying to \"modify\" Edge. At the final stage it seems Edge was not functioning well (modifying took literally hours, and nothing happened). I am going to try that again."
+        ]
+      },
+      {
+        "text": "Follow these steps to troubleshoot saving to PDF from Microsoft Edge on Windows 11:\nTest whether the issue is specific to the current page\nOpen a different website or online document in Edge.\nPress Ctrl+P or select Settings and more (⋯) > Print.\nIn the Print dialog, choose Save as PDF and try to print.\nIf this works on other sites, the original page may have damaged graphics, fonts, or code. In that case:\nOpen the problematic site.\nSelect the Immersive Reader icon in the address bar (if available).\nWhen the page opens in reading mode, press Ctrl+P and try Save as PDF again.\nCheck if the problem is Edge‑specific\nOpen another application such as Word.\nCreate a new blank document and type =rand(10) then press Enter to generate sample text.\nTry printing that document to a real printer (not to PDF).\nIf printing fails from Word and other apps, the issue is likely with the printer driver, Windows, or connectivity; follow the Windows printer troubleshooting steps in the referenced article.\nIf printing works from all other apps but not from Edge, the problem is likely Edge or the way Edge interacts with the print system.\nRetry printing and restart Edge\nClose the Print dialog in Edge by selecting Cancel.\nOpen Print again (Ctrl+P) and select Save as PDF, then try to print.\nIf it still fails, close all Edge windows, reopen Edge, go back to the same page, and try Save as PDF again.\nVerify other print targets\nIn the Edge Print dialog, try printing the same selection to a physical printer instead of Save as PDF.\nIf that also fails, use the steps above to test other sites/documents and other apps to isolate whether the problem is with Edge, the page, or the system print components.\nIf none of these steps resolve the issue and other apps print correctly, report the problem from Edge via Settings and more > Help and feedback > Send feedback, including the page URL, what was selected, and the exact steps taken before the failure.\nReferences:\nTroubleshoot print issues in Microsoft Edge\nView, print, and edit PDFs in a PDF reader",
+        "is_accepted": false,
+        "is_ai": true,
+        "comments": []
+      }
+    ]
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/answers/questions/5824126/ive-had-an-issue-saving-files",
+    "title": "I've had an issue saving files",
+    "question": {
+      "text": "Routinely I download and save files the same way I've always done for years, but now for the past few weeks I've routinely noticed that a download will stop downloading or only save as a TMP file instead of the designated file type and the download will not complete nor will I be able to try and save anything else until all temp files area deleted and/or the whole computer is restarted\nI never had this issue until recently and now it's returning time and time again, how do I prevent it from happening in the first place?",
+      "comments": [
+        "Hi sonic, just wondering if you had the time to check out the suggestions in this thread? If there's any steps weren't clear enough, feel free to let me know!",
+        "I've done the suggestions but now I have to keep doing these and oftentimes that's not enough and I still need to restart the entire computer\nThis happens not just once a week but multiple times within a week\nI'm sorry but these suggestions aren't getting to the core of the issue because the issue keeps repeating.",
+        "Hi, since the cause of the issue (as I stated in the original answer) is the download getting interrupted, have you tried with another user profile, local user, or different network (e.g. public wi-fi spot, your mobile data...) instead?\nIf you're signed into Edge, try browsing without signing in or using another account.\nTry creating another local Windows user and use Edge for download there. If it works fine in another profile then something in your current one is corrupted, you can move to that one.\nIf it's Internet problem then unfortunately, there's nothing we can do from Windows-side.",
+        "For further clarification, it's definitely Edge because I can save files from Discord and Firefox just fine. Edge itself needs to have the entire computer restarted in order to fix the issue until it appears again\nTrying another account with Edge might not fix the issue though but I'm willing to give it a go I guess"
+      ]
+    },
+    "answers": [
+      {
+        "text": "Hi sonic,\nI’m sorry to hear that the downloads that used to work reliably now stall or leave only .TMP files and block further saves until a restart. Normally, Edge saves downloads as temporary files first, then renames them when completes. If something interferes mid‑download, the .TMP file never gets finalized. If the Q&A Assist's suggestions couldn't help, here’s something else you can check out:\n1 - Clear Edge download cache only (not browsing history)\nOpen Edge > Press Ctrl + Shift + Del to open Clear browsing data\nChecked Cached images and files only > Clear now > Restart Edge.\n2 - Change Edge’s default download location\nOpen Edge > Settings > Downloads > Location > click Change\nMake a new folder for testing, e.g. D:\\Downloads_Test\nDisable Ask where to save each file before downloading\nIf downloads work, the original has a permission/sync issue.\n3 - Check Windows Security folder protection\nOpen Windows Security > go to Virus & threat protection\nRansomware protection > If Controlled folder access is enabled:\nTurn it off temporarily for testing\nOr add msedge.exe to the allow list\n4 - Temporarily pause OneDrive sync\nIf OneDrive is running, click the logo in the taskbar tray\nClick the Settings > choose to pause OneDrive sync\nTest downloads again if it’s working. If yes, it's a sync issue.\n5 - Test with a new Windows user profile\nOpen Settings > Accounts > add a new local account\nSign into this one and test the downloads there\nIf they work, the original profile is broken.\nLet me know if any of the suggestions above works, or it’s still blocked. We will go through more nuclear options depending on the results of the solutions above.\nIf the answer is helpful, please click \"Accept Answer\" and kindly upvote it. If you have extra questions about this answer, please click \"Comment\".\nNote: Please follow the steps in our documentation to enable e-mail notifications if you want to receive the related email notification for this thread.",
+        "is_accepted": false,
+        "is_ai": false,
+        "comments": [
+          "Hi sonic, just wondering if you had the time to check out the suggestions in this thread? If there's any steps weren't clear enough, feel free to let me know!",
+          "I've done the suggestions but now I have to keep doing these and oftentimes that's not enough and I still need to restart the entire computer\nThis happens not just once a week but multiple times within a week\nI'm sorry but these suggestions aren't getting to the core of the issue because the issue keeps repeating.",
+          "Hi, since the cause of the issue (as I stated in the original answer) is the download getting interrupted, have you tried with another user profile, local user, or different network (e.g. public wi-fi spot, your mobile data...) instead?\nIf you're signed into Edge, try browsing without signing in or using another account.\nTry creating another local Windows user and use Edge for download there. If it works fine in another profile then something in your current one is corrupted, you can move to that one.\nIf it's Internet problem then unfortunately, there's nothing we can do from Windows-side.",
+          "For further clarification, it's definitely Edge because I can save files from Discord and Firefox just fine. Edge itself needs to have the entire computer restarted in order to fix the issue until it appears again\nTrying another account with Edge might not fix the issue though but I'm willing to give it a go I guess"
+        ]
+      },
+      {
+        "text": "The behavior matches known issues where downloads fail or temporary/cache files are deleted or blocked before the final file is created. Several system components can cause this: Internet/Edge security settings, Attachment Manager, antivirus integration, or underlying Windows/IE download bugs.\nTo reduce or prevent this from happening:\nVerify that file downloads are allowed\nOpen the Internet Properties dialog (press Windows key, type inetcpl.cpl, press Enter).\nGo to the Security tab, select the Internet zone (globe icon), and choose Custom level.\nIn Security Settings:\nScroll to Downloads → File download and set it to Enable.\nScroll to Miscellaneous → Launching applications and unsafe files and set it to Prompt (recommended).\nSelect OK to apply.\nThis ensures downloads are not being blocked by security zone configuration.\nCheck for antivirus/Attachment Manager interference\nIf messages like Virus scan failed or Virus detected appear, the download is typically being blocked by antivirus or Attachment Manager, not by Windows itself.\nIf the download source is trusted, temporarily disable virus scanning only for testing, then re-enable it immediately after confirming behavior.\nAttachment Manager behavior is controlled under the registry key:\nHKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Attachments\nMisconfiguration here can cause downloads to be blocked or temp files to be removed before completion. Adjustments should be done carefully because incorrect registry edits can expose the system to attacks.\nKeep Windows and browser components fully updated\nSeveral known download issues (including cache/temp file handling and failures when saving) have been fixed by cumulative security updates for Internet Explorer and related components. Even though Edge is used, the underlying Windows networking and download stack shares components with IE.\nInstall the latest cumulative security updates for Windows and browser components via Windows Update (Settings → Windows Update → Check for updates). This includes fixes where cache files were deleted before being copied to the final temp file, causing intermittent download failures.\nClear temporary Internet/cache files when the issue appears\nWhen downloads start failing and only .tmp files appear, clearing the browser cache and temporary Internet files can release locked handles and allow new downloads to complete.\nIf clearing cache does not help, a full restart (as already done) resets the download stack and usually restores normal behavior temporarily.\nIf the problem keeps recurring even after confirming download settings, checking antivirus behavior, and applying all Windows updates, the next step is to look for a specific update or hotfix for the download component in use and ensure it is installed, as Microsoft has confirmed and fixed multiple download-related bugs in past updates.\nReferences:\nInformation about the Attachment Manager in Microsoft Windows\nFile downloading intermittently deletes cache file before it copies to temp file in Internet Explorer 11",
+        "is_accepted": false,
+        "is_ai": true,
+        "comments": []
+      }
+    ]
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/answers/questions/5866189/open-links-outside-edge-in-a-new-window",
+    "title": "Open links outside Edge in a new window",
+    "question": {
+      "text": "Greetings.\nI'm not sure if this is something related to Windows or Edge, but since a couple weeks the behaviour has changed regarding opening links from apps outside Edge.\nI use several virtual desktops and I usuallly I leave Edge windows opened in these desktops. Normally, when I'm in a desktop that doesn't have an Edge window opened, whenever I click on a weblink in any app (Outlook, Teams, etc.) a new Edge window would open in that desktop. But since a couple of weeks, links now open in a different desktop that has an Edge window opened, so I find myself jumping from desktop to desktop without wanting to.\nI don't know if anyone is familiar with this issue. Hopefully there's a fix.\nThank you in advance,",
+      "comments": [
+        "Hello Juan,\nJust check in to see how things are going. Let me know if you need anything."
+      ]
+    },
+    "answers": [
+      {
+        "text": "The behavior change is caused by a new Microsoft 365/Edge integration where links from Outlook and Teams open in Microsoft Edge with a side-by-side view of the email/chat and the web page. This integration can change how and where Edge windows are opened when links are clicked from those apps.\nTo restore more traditional behavior (and reduce unwanted desktop switching), configure which browser opens links from Outlook and Teams, or allow users to choose:\nIf managed by policy (IT/admin scenario)\nUse the Choose Which Browser Opens Web Links policy.\nSet it to System default browser if links should follow the Windows default browser, instead of forcing Edge.\nThis policy applies to Outlook for Windows and Teams for Windows and controls which browser opens web links from those apps.\nIf users manage their own settings\nLeave the Choose Which Browser Opens Web Links policy Not configured or Disabled.\nThen, in each app, users can choose how links open:\nNew Outlook for Windows: Settings > General > Files and links > Open hyperlinks from Outlook in.\nClassic Outlook for Windows: File > Options > Advanced > File and browser preferences.\nTeams: Settings > Files and links > Link open preference.\nOn first use, a banner in Edge may appear; selecting Manage my settings lets users revert to their system default browser instead of Edge.\nAdjusting these settings or policy will stop Outlook/Teams from forcing links into an existing Edge integration window and should reduce the cross-desktop jumping when opening links from those apps.\nReferences:\nWeb links from Outlook emails and Teams chats open in Microsoft Edge\nWeb links from Outlook and Teams open in Microsoft Edge in side-by-side view",
+        "is_accepted": false,
+        "is_ai": true,
+        "comments": []
+      },
+      {
+        "text": "Hello Juan,\nThanks for reaching out. A similar case was discussed here: Microsoft Edge switches Virtual Desktops (pulls focus) when it is open in multiple desktops\nFrom my understanding, Edge runs as a single-instance app by default, so when you click a link from another app, Windows may route it to an existing Edge window on a different desktop instead of opening a new one.\nYou can try a few workarounds:\nIsolate Edge windows per desktop — Open Task View (Win + Tab), right-click the Edge window, and uncheck \"Show windows from this app on all desktops.\" This keeps Edge windows tied to the desktop they were opened on.\nUse separate Edge profiles per desktop — Click your profile icon in Edge and select \"Add profile.\" Use a different profile on each virtual desktop. Edge treats each profile as a separate process, which reduces cross-desktop switching.\nCheck Multitasking settings — Go to Settings > System > Multitasking > Desktops > \"Show open windows\" and set it to \"Only on the desktop I'm using.\"\nAlso, submitting feedback directly in Edge (Alt + Shift + I) helps the Edge team track this behavior.\nIf the answer is helpful, please click \"Accept Answer\" and kindly upvote it. If you have extra questions about this answer, please click \"Comment\".  \nNote: Please follow the steps in our documentation to enable e-mail notifications if you want to receive the related email notification for this thread.",
+        "is_accepted": false,
+        "is_ai": false,
+        "comments": [
+          "Hello Juan,\nJust check in to see how things are going. Let me know if you need anything."
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/answers/questions/5869107/solicitu-de-traduccion-de-libro-del-ingles-al-espa",
+    "title": "solicitu de traduccion de libro del ingles al español",
+    "question": {
+      "text": "buenos dias , necesito traducir un libro que esta en formato pdf . la traducciion lo quiero del ingles al español . ya subi hice los pasos y no esta funcionando",
+      "comments": [
+        "Hola, Julia CORREA,\nSolo paso a ver cómo van las cosas. Avísame si necesitas algo."
+      ]
+    },
+    "answers": [
+      {
+        "text": "Ten en cuenta que este es el foro de preguntas y respuestas de EE. UU., por lo que todo el contenido debe publicarse en inglés. No obstante, te responderé en español basándome en tu mensaje inicial.\nEsta respuesta ha sido traducida. Por ello, es posible que algunas expresiones o aspectos gramaticales resulten poco habituales.\nHola, Julia CORREA,\nPara orientarte mejor, ¿podrías aclararme lo siguiente?\n¿Puedes seleccionar y resaltar texto dentro del PDF? ¿O se trata de imágenes escaneadas de páginas?\nEsto es importante porque el método de traducción varía:\nSi el PDF es de texto (puedes seleccionar texto):\nAbre el PDF en Microsoft Word (Archivo > Abrir > selecciona el PDF). Word lo convertirá en un documento editable. A continuación, utiliza Revisar > Traducir > Traducir documento para traducir todo el documento al español.\nSi el PDF está escaneado o es de imágenes (no se puede seleccionar texto):\nLa traducción integrada de Edge y la función de traducción de Word no funcionan directamente con contenido basado en imágenes. Primero necesitarías una herramienta de OCR (reconocimiento óptico de caracteres) para extraer el texto antes de traducirlo.\nEn el caso de libros muy extensos, traducir en secciones más pequeñas puede dar mejores resultados.",
+        "is_accepted": false,
+        "is_ai": false,
+        "comments": [
+          "Hola, Julia CORREA,\nSolo paso a ver cómo van las cosas. Avísame si necesitas algo."
+        ]
+      },
+      {
+        "text": "Buenos dias , solicito ayuda para traducir un libro de ingles al español",
+        "is_accepted": false,
+        "is_ai": false,
+        "comments": []
+      }
+    ]
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/answers/questions/5870896/unlink-microsoft-account-on-playstation-network",
+    "title": "Unlink Microsoft account on PlayStation network",
+    "question": {
+      "text": "I recently lost my Playstaition account and I had my main Minecraft account so I made a new PS account but when I tried logging in to my Microsoft account it said already linked so I didn’t know what to do but I have all the details of the account but I still don’t know how to contact mojang",
+      "comments": [
+        "Where do I contact mojang"
+      ]
+    },
+    "answers": [
+      {
+        "text": "To use the Microsoft account on the new PlayStation account, the existing link between that Microsoft account and the old PlayStation account must be handled through Minecraft/Microsoft account support.\nBased on similar account issues in the context:\nIf the Microsoft account itself has sign‑in problems (password, email, or verification issues), first resolve those using the standard Microsoft account tools:\nIf the password is forgotten, reset it: see Reset your password.\nIf the email/username is forgotten, use Look up your Microsoft account.\nIf sign‑in fails even though the password is known, use the Sign-in Helper tool. All of these are linked from the “I can’t sign in to my Microsoft account” article.\nIf the Microsoft account was compromised or changed by someone else, recovery is only possible through the official hacked/compromised account flow and the account recovery form. If those fail, the account cannot be recovered and support cannot override this, as described in the Q&A answers about hacked accounts.\nFor Minecraft‑specific help (including unlinking or moving a Minecraft license between platforms, or when an account is locked/linked in a way that cannot be changed from the console UI), contact Minecraft Support using the official Minecraft support portal referenced in the Q&A answers. They can review ownership details (purchase info, gamertag, etc.) and advise whether the Microsoft/Minecraft account can be freed for use on the new PlayStation account.\nWhen contacting Minecraft Support, provide all details available (Microsoft account email, PSN ID old/new, Minecraft username, purchase information). This is similar to the guidance given in the Q&A posts for Minecraft accounts tied to Microsoft accounts.\nIf the Microsoft account recovery and Minecraft Support paths do not succeed, there is no alternative method in the provided documentation to forcibly unlink the Microsoft account from the old PlayStation account.\nReferences:\nI can't sign in to my Microsoft account\nCheck products or services where you used your Microsoft account\nForgot my mail to my old account - Microsoft Q&A\nNeed help with hacked microsoft account - Microsoft Q&A\nCannot Access Microsoft Account After Hacker Changed Email, Advice Needed - Microsoft Q&A\nmy microsoft account has been compromised - Microsoft Q&A\nMe robaron una cuenta - Microsoft Q&A",
+        "is_accepted": false,
+        "is_ai": true,
+        "comments": []
+      }
+    ]
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/answers/questions/5866638/bing-popup-perhaps-website-security-or-verificatio",
+    "title": "bing popup, perhaps website security or verification, when clicking on search result",
+    "question": {
+      "text": "When clicking on search results in Edge there is a bing popup, perhaps website security or verification, when clicking on search result. What is it and how do I get rid of it?",
+      "comments": [
+        "Hello Ed Scott,\nHave you had an opportunity to review the answer shared earlier?  \nAny update you can provide would be greatly appreciated."
+      ]
+    },
+    "answers": [
+      {
+        "text": "Hello Ed Scott,\nWelcome to Microsoft Q&A forum.\nBefore we proceed, may I have a photo of the popup you see so I can check for you?\nI'm waiting for your reply.",
+        "is_accepted": false,
+        "is_ai": false,
+        "comments": [
+          "Hello Ed Scott,\nHave you had an opportunity to review the answer shared earlier?  \nAny update you can provide would be greatly appreciated."
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/answers/questions/5867088/immersive-reader-change-on-microsoft-edge",
+    "title": "Immersive reader change on Microsoft edge",
+    "question": {
+      "text": "Hi,\nI am wondering where the rest of the immersive reader tools have gone from Microsoft Edge.\nThere is no longer reading preferences or text preferences. My students used these a lot and now they are gone.\nIs there a way to get the old immersive reader tools back? We already had access to the Read Aloud tool, so why the transition to Read Mode instead of Immersive reader?\nKind regards\n[moderator's note: PII removed]",
+      "comments": [
+        "Hi Thank you for your response.\nIt is very frustrating!! I have contacted Microsoft regarding this issue/change. It is just so challenging when they keep removing useful tools.",
+        "Hi ANDERSON, Katie, \nThanks for the update. Sorry to hear the options have been removed/changed, I understand why that’s frustrating, especially in a classroom. \nAt this point, sending feedback is still the best way to raise visibility on the impact. With enough feedback from educators, hopefully Microsoft will consider bringing back similar controls or building a replacement tool with comparable functionality. \nThank you so much for your understanding."
+      ]
+    },
+    "answers": [
+      {
+        "text": "I noticed your post included some personal information. For your safety, I’ve helped remove/blur that information from the thread. \nHi ANDERSON, Katie, \nI can understand how disruptive this is in a classroom setting, when students rely on Text preferences and Reading preferences, having them no longer visible can really impact day-to-day learning. \nPlease note that this is a user-to-user support forum. Moderators, contributors including external Microsoft employees cannot directly intervene in Microsoft product features or access back-end systems. Our role is limited to providing technical guidance on reported issues, requests, or ideas. \nI tested this behavior in my own Edge environment, and the Immersive Reader/Reading mode experience is showing in a similar way to what you described, where the expected “Reading preferences” / “Text preferences” options are not presented as before. \nThe most effective path is to submit feedback directly to Microsoft. \nOpen Microsoft Edge \nClick … (Settings and more) \nGo to Help and feedback \nSelect Send feedback and include what changed \nIf you’d like more direct insights, you can contact Microsoft Support via the Get Help app or through support.microsoft.com for a more direct support channel. Please kindly follow these steps below:   \nVisit to this link: Contact - Microsoft Support  \nSelect Get home support  \nType your issue (use correct keyword to reach live chat support) > select Get help  \nScroll down and find Contact Support  \nAt the box Select your product or service \nAt the box Select your product category   \nAfter that you select Chat with a support agent in your web browser  \nThank you so much for your understanding and cooperation. \nNote: Please follow the steps in our documentation to enable e-mail notifications if you want to receive the related email notification for this thread.",
+        "is_accepted": false,
+        "is_ai": false,
+        "comments": [
+          "Hi Thank you for your response.\nIt is very frustrating!! I have contacted Microsoft regarding this issue/change. It is just so challenging when they keep removing useful tools.",
+          "Hi ANDERSON, Katie, \nThanks for the update. Sorry to hear the options have been removed/changed, I understand why that’s frustrating, especially in a classroom. \nAt this point, sending feedback is still the best way to raise visibility on the impact. With enough feedback from educators, hopefully Microsoft will consider bringing back similar controls or building a replacement tool with comparable functionality. \nThank you so much for your understanding."
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/answers/questions/5869802/copilot-not-working-i-need-urgent-help-on-this",
+    "title": "Copilot not working I need urgent help on this",
+    "question": {
+      "text": "To Customer Service,\nCopilot is not working? Can you please help me to fix the issue asap.",
+      "comments": [
+        "It doesn't work even after restarting or using different machine.",
+        "it started working again after few hours. i had to cancel my meeting because of it",
+        "All OS and browsers are updated. I know it takes time for some queries, but it is timing out. tried to use chrome as well and go to copilot website and issue still persists.",
+        "I meant the chat option in Microsoft edge browser. Copilot to be specific.\nThe blue circle (sometimes one big or split into two small ones) animated keeps spinning for long time and times out.\nThe error message is\n\"I'm sorry, I'm having trouble responding to requests right now. Let's try this again in a bit.—\"\nThen tried opening a new tab and ask something very simple unrelated to what I was working on. A simple regular search would answer it. Still was giving me the same error.\nAnd my internet is working. Other websites work. ping works. netstat and routing is ok."
+      ]
+    },
+    "answers": [
+      {
+        "text": "Hi, thank you for replying. Have you tried updating your device and your browser as well? If not, I recommend doing that first, then checking again if the issue still persists. Additionally, some Copilot queries may take time depending on the complexity of the question.",
+        "is_accepted": false,
+        "is_ai": false,
+        "comments": [
+          "All OS and browsers are updated. I know it takes time for some queries, but it is timing out. tried to use chrome as well and go to copilot website and issue still persists."
+        ]
+      },
+      {
+        "text": "ChatGPT is not a Microsoft product. It's owned and produced by OpenAI. And no one can guess what \"not working\" means unless you explain in detail.\nChatGPT Help",
+        "is_accepted": false,
+        "is_ai": false,
+        "comments": [
+          "I meant the chat option in Microsoft edge browser. Copilot to be specific.\nThe blue circle (sometimes one big or split into two small ones) animated keeps spinning for long time and times out.\nThe error message is\n\"I'm sorry, I'm having trouble responding to requests right now. Let's try this again in a bit.—\"\nThen tried opening a new tab and ask something very simple unrelated to what I was working on. A simple regular search would answer it. Still was giving me the same error.\nAnd my internet is working. Other websites work. ping works. netstat and routing is ok."
+        ]
+      },
+      {
+        "text": "Hi, I'm Bernard. I'm happy to help!\nUpon checking on my end, it seems that it is working perfectly. Have you tried to use a different internet connection just to check? In addition, do you receive any error message or code when you try to open it?\nNote: This is a public forum. I may respond shortly, but I apologize in advance for any delays. I am simply a fellow user trying to provide helpful insights and information.",
+        "is_accepted": false,
+        "is_ai": false,
+        "comments": []
+      }
+    ]
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/answers/questions/5868148/when-using-web-browser-my-screen-turns-blank-black",
+    "title": "When using web browser, my screen turns blank/black screen before automatically closed my web browser. I luckily have save my tabs, but force to sign in again. It happened during pass few days and wanted to know how can I prevent this",
+    "question": {
+      "text": "Based on the question above, I wanted to find way to prevent my screen to go blank/black screen for a few secs automatically closed my browser where I force to login again. This happened recently like about a week now.",
+      "comments": [
+        "Hey, thank you so for the help!\nIt turns out I have to turn off on using hardware acceleration when available. Which is hopeful lately as I did not have any black/blank screen. I sadly have to login again after I have to restart, but it better than nothing"
+      ]
+    },
+    "answers": [
+      {
+        "text": "Hi, good day!\nThis sounds like a recent issue likely caused by a browser, system update, or graphics-related problem.\nHere are some of the steps you can try.\nPlease try to update your Microsoft Edge browser\nOpen Edge > Click 3 dots > Help and Feedback > About Microsoft Edge\nClear cache and cookies\nOpen Edge > Click 3 dots > Settings\nSelect Privacy, search, and services > Under Clear browsing history\nClick Choose what to clear\nSelect your preferred Time Range and items to clear\nClick Clear Now\nDisable or Uninstall Edge extensions\nOpen Edge > Click 3 dots > Extensions\nPlease check if one of your extensions is causing the issue\nDisable Hardware acceleration\nOpen Edge then click 3 dots\nSelect Settings > System and Performance\nToggle off \"Use hardware acceleration when available\"\nRestart your browser\nI look forward to your update and am happy to continue working with you until the issue is resolved. If you find the answer helpful, please click \"Accept Answer\" and consider upvoting it. Otherwise, please keep me posted by clicking \"Add comment\" below instead of selecting Yes or No.",
+        "is_accepted": false,
+        "is_ai": false,
+        "comments": [
+          "Hey, thank you so for the help!\nIt turns out I have to turn off on using hardware acceleration when available. Which is hopeful lately as I did not have any black/blank screen. I sadly have to login again after I have to restart, but it better than nothing"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/answers/questions/5867990/cannot-login-on-iphone",
+    "title": "Cannot Login on iPhone",
+    "question": {
+      "text": "This is the error I get on my iPhone:\nAADSTS165000: Invalid Request: The user session context is missing. One or more of the user context values (cookies; form fields; headers) were not supplied, every request must include these values and maintain them across a complete single user flow.",
+      "comments": [
+        "ok, this information should have been provided especially when you put the question in the Edge category.\nSo, this is an outlook.com or hotmail.com email address, if not, tell me what the email domain is. Such as @gmail.com, or @somethingelse.com\nWhen you added it, did you use the Email account option on the top? Did this error come up after verification?",
+        "This is an outlook.com email address. The system would not even allow me to verify it.",
+        "Can you launch the safari app on your phone, and see if you can log in via https://www.outlook.com?",
+        "Yes, that is the only way it works. At this point I already erased my phone and am reinstalling my apps.",
+        "I see. See if it works after the reset. Unless you meant, the reset doesn't appear to address the issue.\nIf the issue continues after the reset, I suspect that it can be a bug. I noticed a few others having the exact same issue. There's no official announcement right now regarding this from Microsoft.\nYou can also try to add your outlook.com address via iPhone's own email app instead of the Outlook app for now, see if that works. It will be easier than checking via the web."
+      ]
+    },
+    "answers": [
+      {
+        "text": "Hello\nWhat exactly are you logging into on your iPhone? A certain website? If so, what URL and is it via Edge?\nOr a certain app? If so, which app?\nIs this for an organization issued account?",
+        "is_accepted": false,
+        "is_ai": false,
+        "comments": []
+      },
+      {
+        "text": "What exactly are you logging into on your iPhone? Outlook Email app\nA certain website? If so, what URL and is it via Edge? No\nOr a certain app? If so, which app? Outlook\nIs this for an organization issued account? Personal MC 365 Account",
+        "is_accepted": false,
+        "is_ai": false,
+        "comments": [
+          "ok, this information should have been provided especially when you put the question in the Edge category.\nSo, this is an outlook.com or hotmail.com email address, if not, tell me what the email domain is. Such as @gmail.com, or @somethingelse.com\nWhen you added it, did you use the Email account option on the top? Did this error come up after verification?",
+          "This is an outlook.com email address. The system would not even allow me to verify it.",
+          "Can you launch the safari app on your phone, and see if you can log in via https://www.outlook.com?",
+          "Yes, that is the only way it works. At this point I already erased my phone and am reinstalling my apps.",
+          "I see. See if it works after the reset. Unless you meant, the reset doesn't appear to address the issue.\nIf the issue continues after the reset, I suspect that it can be a bug. I noticed a few others having the exact same issue. There's no official announcement right now regarding this from Microsoft.\nYou can also try to add your outlook.com address via iPhone's own email app instead of the Outlook app for now, see if that works. It will be easier than checking via the web."
+        ]
+      },
+      {
+        "text": "The error indicates that required user session context (cookies, form fields, or headers) is not being preserved between requests on the iPhone. This typically happens when the browser or embedded web view used for sign-in does not allow cookies or does not share them correctly.\nFor iOS sign-in flows that rely on Microsoft identity (including Microsoft 365 and Entra ID–backed apps), the sign-in experience depends on cookies being stored and reused to maintain a single user flow. If cookies are blocked, cleared, or isolated between requests, the service treats each request as a new session and fails with an error like AADSTS165000.\nTo address this on iOS:\nEnsure that the browser or web view used for sign-in allows cookies and does not block them for Microsoft domains.\nAvoid custom or embedded browsers that do not support normal cookie sharing for authentication flows.\nIf an app uses MSAL on iOS with a custom browser configuration (for example, SFSafariViewController, SFAuthenticationSession, ASWebAuthenticationSession, or WKWebView), configure it so that cookies can be shared and preserved across the entire sign-in flow, or revert to the default Safari system browser behavior, which supports SSO state sharing and proper token/cookie handling.\nThese steps ensure that the required user context values (cookies and related state) are maintained across the complete sign-in flow, preventing repeated failures with missing session context.\nReferences:\nTroubleshoot sign-in prompt issues in iOS with MSAL SDK",
+        "is_accepted": false,
+        "is_ai": true,
+        "comments": []
+      }
+    ]
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/answers/questions/5868349/i-cant-install-iso-windows-11-it-gives-me-an-error",
+    "title": "i can't install ISO windows 11, it gives me an error after selecting the language. Error 715-123130 and error 8fc4f7a5-2be2-405c-9f09-e3f4405261c6.",
+    "question": {
+      "text": "after selecting the language it displays error 715-123130 and error 8fc4f7a5-2be2-405c-9f09-e3f4405261c6. What can i do? I need to install it on a pen drive but i seriously can't because of these errors. I don't have a vpn or any google extension that could give me these errors.",
+      "comments": [
+        "thank you very much, i finally downloaded it. Thank you",
+        "Great, I am happy that worked. Give back to the Community. Help the next person who has this issue by indicating if this reply solved your problem. Click Yes or No below.\nYou're most welcome and have a great day!",
+        "I already tried with microsoft edge and incognito but it always gives me these errors. Could you please send me the direct link? I need it in italian please"
+      ]
+    },
+    "answers": [
+      {
+        "text": "Kindly click the link below to download the Windows 11 Italian x64-bit ISO file. (The link is generated from the Official Microsoft website, and it is safe to download)\nhttps://software.download.prss.microsoft.com/dbazure/Win11_25H2_Italian_x64_v2.iso?t=f1fb5ad3-3ea3-49bc-b486-b524673cbef6&P1=1776989607&P2=601&P3=2&P4=uYepVCZKBd09sv5P0%2bZYoOFb%2fQX%2bpe1XkxC9PyXUgbgtmbKxIk8btZbGVtEcWfom50fdHJg2fRnz8Y5UZwjEZDgQ%2fuGzZw08BgTykJmZ%2bKc8FM6ekgCfwPxji3pPdBM93hm1sl8YfURT6P4OLex9WKbsd22f9C8cLPCpxI7juhuAwvXWRDVI5GHnIQguFaq35YkoPm9D3o1FLgvHfXKtNLkAr3GMNVnJkYuNbr%2bDT9%2b3TtFprpcTMbTKC5BgJDO88F84YAEggAY36N%2bLQBY9TmFT9l4nD9uN25bRVlhHMgLbuDg75ADxEHyw8Bx%2bpfxgLwbYnekVlN07Y6IuThXjAw%3d%3d\nLinks valid for 24 hours from time of creation.\nLinks expire: 2026-04-24T00:13:27.3257311Z UTC",
+        "is_accepted": false,
+        "is_ai": false,
+        "comments": [
+          "thank you very much, i finally downloaded it. Thank you",
+          "Great, I am happy that worked. Give back to the Community. Help the next person who has this issue by indicating if this reply solved your problem. Click Yes or No below.\nYou're most welcome and have a great day!"
+        ]
+      },
+      {
+        "text": "Hello, good day!\nThis usually happens temporarily and can be caused by a variety of factors, including potential issues with your internet service provider (ISP) or if you have a VPN installed.\nCan you try using InPrivate/Incognito or a different browser?\nIf you still can't download the ISO, let me know what language you need it in, and I'll provide you a direct link.\nI look forward to your update and am happy to continue working with you until the issue is resolved. Please keep me posted by clicking \"Add comment\" below instead of selecting Yes or No.",
+        "is_accepted": false,
+        "is_ai": false,
+        "comments": [
+          "I already tried with microsoft edge and incognito but it always gives me these errors. Could you please send me the direct link? I need it in italian please"
+        ]
+      },
+      {
+        "text": "Error 715-123130 when downloading the Windows 11 ISO is typically related to how the connection to Microsoft’s download service is being made, often involving VPNs, proxies, or similar network-layer tools.\nFrom a similar case, the issue was resolved by:\nTurning off any VPN or anonymizing/location-hiding service.\nClearing the browser cache.\nTrying the ISO download again.\nEven if no VPN or obvious extension is installed, also try:\nUsing a different browser (for example, if using Microsoft Edge, try another supported browser, or vice versa).\nTrying a different network (such as a mobile hotspot instead of the current Wi‑Fi) in case the current ISP or network is being blocked.\nTemporarily disabling any security or privacy tools that may route traffic through external servers.\nOnce the ISO download succeeds, use it to create the bootable USB (pen drive) with the standard tools or instructions provided with the ISO.\nReferences:\nWhy can't I download the iso file for Windows 11 25H2? - Microsoft Q&A Error",
+        "is_accepted": false,
+        "is_ai": true,
+        "comments": []
+      }
+    ]
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/answers/questions/5862736/microsoft-edge-does-not-open",
+    "title": "Microsoft edge does not open.",
+    "question": {
+      "text": "I have repaired it restarted computer and chrome still opens",
+      "comments": [
+        "Tried this and none worked.",
+        "Hi, I'm John! I will help you with this.\nThank you for sharing the troubleshooting steps you've already tried.\nCould you provide me with a screenshot of your current Windows OS Build?\nTo do this, press the Windows key + R to open the Run dialog, type winver and press Enter.",
+        "I attach the desired screenshot",
+        "Let me try to attach the screenshot again/",
+        "Please provide the build number from the winver command instead.\nAlso, please share the troubleshooting steps you've already tried; this helps me avoid recommending them again later.",
+        "Would this be like repair office which does not disrupt the current settings.\nI have done this repair of office 2024 several times because I can not get outlook search to work but get the message Search performance will be impacted because the Windows search is turned off in elevated mode even though I have used services.msc and properties of windows search and set startup type it at either automatic or automatic(default). Niether fixes the issue.\nWill this Windows repair address that issue?",
+        "Yes, it’s very similar to an Office repair, but at the Windows level.\nIt will reinstall Windows system files while keeping your apps, files, and most settings intact. So it’s not like a full reset.\nNow, about your Outlook search issue, that message usually points to Windows Search service or indexing problems, not just Outlook itself.\nAn in-place repair can help if the issue is caused by:\nCorrupted Windows Search components\nBroken indexing\nSystem file issues\nBut I want to set expectations, it’s not guaranteed to fix it 100%.\nBefore doing the repair, can you confirm this:\nIs Windows Search service currently running? > Open services.msc > Check if Windows Search is Running\nIn Outlook, are you running it as administrator? (That “elevated mode” message usually appears when Outlook is run as admin)\nHave you tried rebuilding the index? Control Panel > Indexing Options > Advanced > Rebuild\nIf these were already checked and the issue still persists, then yes, the Windows repair is a reasonable next step and may fix both Edge and the search problem.",
+        "Thanks John. I have tried all three suggestions repeatedly for outlook. Still get the same message as at the start of searches. As I result I can't search in a limited time period and when the search starts it begins with the oldest messages rather than the modst current ones.\nAny other ideas before I do the windows repair?\nAlbert",
+        "Glad to assist! And thank you for getting back to me.\nThat specific message “Windows Search is turned off in elevated mode” usually means Outlook is being run as Administrator, which disables normal search behavior.\nLet’s double check this carefully:\nClose Outlook completely\nCheck how it’s being launched:\nRight-click your Outlook shortcut\nSelect Properties > Compatibility tab\nMake sure “Run this program as administrator” is NOT checked\nAlso check the EXE itself:\nGo to: C:\\Program Files\\Microsoft Office\\root\\Office16\nRight-click OUTLOOK.EXE > Properties > Compatibility\nAgain, make sure Run as administrator is unchecked\nNow open Outlook normally (no admin)\nAlso:\nAre you using Windows in S Mode or any security software that might restrict services?",
+        "Thanks for the prompt response. I am in office 2024\nThere is no compatibility tab, but the advanced tab in the short cut does not have a check in the run as administrator check box.\nWent to C:\\Program Files\\Microsoft Office\\root\\Office16 then to OutlookAutoDiscover which has properties but no compatibility choice, In Security advanced tab I see Group or User Names that has an Administrators(DESKTOP-JGIFLPS\\Administrator The administrators has permission for full control, but I see no indication the control has been exercised, Should I look someplace else?\nNo change in security software Malwarebytes and Windows Security.\nStill same message and searches begin with oldest messages",
+        "I mean when I try to open the Edge program Chrome opens. Changing Edge to the default for files does not change this behavior .\nI am reluctant to reinstall Windows, which would seem to destroy many of my settings. I have already had to reinstall all the Chrome user names and passwords",
+        "Hi, both of the reinstalls I suggested should not delete any of your files or data (including settings). They would just install a Windows on top of your current one, and patch up corruptions if any.\nThe one clearing your settings would be Reset PC (keeping files) option. And the nuclear one for cleaning the whole device is Clean Install. Fix Windows with installation and In-place upgrade won't clear your Windows settings.",
+        "Are you referring to the Q&A Assist answer earlier?\nAbout the winver command, please share the build number you are seeing; I need to check if it is related to a Windows 11 update."
+      ]
+    },
+    "answers": [
+      {
+        "text": "Use these steps to get Microsoft Edge opening again on Windows 11:\nRestart the device A running process can block Edge from starting.\nSelect Start > Power > Restart.\nAfter restart, try opening Microsoft Edge directly from the Start menu (search for “Microsoft Edge”) instead of a shortcut or link that might be mapped to Chrome.\nRepair Microsoft Edge (already done, but confirm full steps) If repair was not run from Settings, use this method:\nClose all Edge windows for all users.\nGo to Start > Settings > Apps > Installed apps.\nFind Microsoft Edge, select it, then choose Modify.\nWhen prompted “Do you want to allow this app to make changes to your device?”, select Yes.\nEnsure the device is connected to the internet and select Repair.\nReinstall Microsoft Edge If Edge still does not open after repair:\nOpen any working browser (for example, Chrome).\nGo to https://www.microsoft.com/edge and download the latest Microsoft Edge installer.\nRun the installer to reinstall Edge on top of the existing installation.\nAfter installation completes, try launching Edge from the Start menu.\nCheck that Chrome is not set to open Edge shortcuts If clicking what appears to be an Edge icon opens Chrome, the shortcut may point to Chrome or Chrome is set as default:\nRight-click the Edge icon on the taskbar, right-click Microsoft Edge in the jump list, and select Properties to confirm the Target is Edge, or pin a fresh Edge shortcut:\nSearch for Microsoft Edge in Start, right-click it, and select Pin to taskbar.\nIf none of these steps work, repeat the repair/reinstall steps and ensure all Edge windows are closed for all users before running Modify/Repair.\nReferences:\nWhat to do if Microsoft Edge isn't working\nTroubleshooting tips for downloading, installing, and updating Microsoft Edge\nMicrosoft Edge will not start. - Microsoft Q&A",
+        "is_accepted": false,
+        "is_ai": true,
+        "comments": []
+      },
+      {
+        "text": "You have the latest version of Windows. Have you tried performing an in-place upgrade, as suggested by Lychee-Ng, a Microsoft External Staff Moderator?\nGo to Settings > System > Recovery.\nIn \"Fix problem using Windows Update\", click \"Reinstall now\".\nThis will download Repair Upgrade and reinstall Windows similar to an In-Place Upgrade, preserving your apps, files, and settings.\nThe process will download and restart your PC several times. This may take some time, so please be patient and do not interrupt the process.",
+        "is_accepted": false,
+        "is_ai": false,
+        "comments": [
+          "Would this be like repair office which does not disrupt the current settings.\nI have done this repair of office 2024 several times because I can not get outlook search to work but get the message Search performance will be impacted because the Windows search is turned off in elevated mode even though I have used services.msc and properties of windows search and set startup type it at either automatic or automatic(default). Niether fixes the issue.\nWill this Windows repair address that issue?",
+          "Yes, it’s very similar to an Office repair, but at the Windows level.\nIt will reinstall Windows system files while keeping your apps, files, and most settings intact. So it’s not like a full reset.\nNow, about your Outlook search issue, that message usually points to Windows Search service or indexing problems, not just Outlook itself.\nAn in-place repair can help if the issue is caused by:\nCorrupted Windows Search components\nBroken indexing\nSystem file issues\nBut I want to set expectations, it’s not guaranteed to fix it 100%.\nBefore doing the repair, can you confirm this:\nIs Windows Search service currently running? > Open services.msc > Check if Windows Search is Running\nIn Outlook, are you running it as administrator? (That “elevated mode” message usually appears when Outlook is run as admin)\nHave you tried rebuilding the index? Control Panel > Indexing Options > Advanced > Rebuild\nIf these were already checked and the issue still persists, then yes, the Windows repair is a reasonable next step and may fix both Edge and the search problem.",
+          "Thanks John. I have tried all three suggestions repeatedly for outlook. Still get the same message as at the start of searches. As I result I can't search in a limited time period and when the search starts it begins with the oldest messages rather than the modst current ones.\nAny other ideas before I do the windows repair?\nAlbert",
+          "Glad to assist! And thank you for getting back to me.\nThat specific message “Windows Search is turned off in elevated mode” usually means Outlook is being run as Administrator, which disables normal search behavior.\nLet’s double check this carefully:\nClose Outlook completely\nCheck how it’s being launched:\nRight-click your Outlook shortcut\nSelect Properties > Compatibility tab\nMake sure “Run this program as administrator” is NOT checked\nAlso check the EXE itself:\nGo to: C:\\Program Files\\Microsoft Office\\root\\Office16\nRight-click OUTLOOK.EXE > Properties > Compatibility\nAgain, make sure Run as administrator is unchecked\nNow open Outlook normally (no admin)\nAlso:\nAre you using Windows in S Mode or any security software that might restrict services?",
+          "Thanks for the prompt response. I am in office 2024\nThere is no compatibility tab, but the advanced tab in the short cut does not have a check in the run as administrator check box.\nWent to C:\\Program Files\\Microsoft Office\\root\\Office16 then to OutlookAutoDiscover which has properties but no compatibility choice, In Security advanced tab I see Group or User Names that has an Administrators(DESKTOP-JGIFLPS\\Administrator The administrators has permission for full control, but I see no indication the control has been exercised, Should I look someplace else?\nNo change in security software Malwarebytes and Windows Security.\nStill same message and searches begin with oldest messages"
+        ]
+      },
+      {
+        "text": "Hi Albert Feuer,\nI understand how unproductive it is when Edge won’t open at all. Before getting further, I’d like to clear up one thing: when saying \"Chrome still opens\", did you mean links always opened in Chrome instead of Edge, or that Edge did nothing when clicked while other browsers open normally?\n1 - If it’s the former case, the setup might be wrong:\nOpen Settings > Apps > Default apps > Microsoft Edge\nClick Set default to Make Microsoft Edge your default browser.\n2 - If it’s the latter case, let’s check with another Windows profile:\nOpen Settings > Accounts > create another local account\nSign into that account and see if you can open Edge there\nIf it works, your old Windows profile might be corrupted\nConsider moving to this new account instead.\n3 - If it doesn't work even in new profile, consider reinstallation repair options (keeping files and apps)\nUse the built-in repair:\nOpen Settings > System > Recovery > Fix problems using Windows Update\nClick Reinstall now > follow the onscreen instructions to reinstall Windows.\nPerform an in-place upgrade:\nRefer to Reinstall Windows with the installation media - Microsoft Support\nNavigate to the bottom of the page and expand In-place Upgrade.  \nYou can also check out the instructions from one of the Moderators here: How to run In-place upgrade in Windows 11 - Microsoft Q&A\nDisclaimer: Both Windows reinstallation and in-place upgrade will refresh your Windows files and operating system without removing files or applications. That being said, we always recommend that if you have important data, you should back it up first before making large system changes.\nIf after trying everything, Edge still does nothing at all when launched, then its core components are likely corrupted at the Windows level. Let me know in that case and we will look into some more nuclear options.\nIf the answer is helpful, please click \"Accept Answer\" and kindly upvote it. If you have extra questions about this answer, please click \"Comment\".\nNote: Please follow the steps in our documentation to enable e-mail notifications if you want to receive the related email notification for this thread.",
+        "is_accepted": false,
+        "is_ai": false,
+        "comments": [
+          "I mean when I try to open the Edge program Chrome opens. Changing Edge to the default for files does not change this behavior .\nI am reluctant to reinstall Windows, which would seem to destroy many of my settings. I have already had to reinstall all the Chrome user names and passwords",
+          "Hi, both of the reinstalls I suggested should not delete any of your files or data (including settings). They would just install a Windows on top of your current one, and patch up corruptions if any.\nThe one clearing your settings would be Reset PC (keeping files) option. And the nuclear one for cleaning the whole device is Clean Install. Fix Windows with installation and In-place upgrade won't clear your Windows settings."
+        ]
+      },
+      {
+        "text": "This did not change the behavior of Edge",
+        "is_accepted": false,
+        "is_ai": false,
+        "comments": [
+          "Are you referring to the Q&A Assist answer earlier?\nAbout the winver command, please share the build number you are seeing; I need to check if it is related to a Windows 11 update."
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/answers/questions/5558791/how-to-disable-this-google-sign-in-popup",
+    "title": "How to disable this - Google Sign in Popup",
+    "question": {
+      "text": "I've Edge browser as my default. And my search engine is Google.com\nsince about two months ago, whenever I open - Edge instantly appears this\nGoogle popup. on the lower - Right corner of Edge Home page. Asking\nme to Sign in : To Google Chrome account. it looks a silly offer 'cause\nas said above. I've Goggle account and Chrome installed too,.? To clarify,\nthere're 2 Pop-ups : 1 ask to try Chrome - The other ask to Sign in Google acct.\nDoes anybody have seen, these offers on Edge browser,.?\nif I click on the - Edge Home button, the offer disappears. But shows up\nagain as I continue, closing tabs here and open another site. Suddenly\nis shown again. Anybody knows how could I stop it forever. I have Chrome\ninstalled too. But obviously when open that, browser doesn't show the popup",
+      "comments": [
+        "I go to edge icon on app label and get sine in to Google its not just in the corner it's fole page take over",
+        "Hi aReply4u0084,\nThanks again for your detailed feedback. Based on your observations, it seems the pop-ups began appearing after Google introduced the AI icon in the search bar. This icon may be triggering promotional overlays, similar to the horizontal ads Google used in the past to promote Chrome.\nIf you're interested in keeping the AI features active, but want to stop the pop-ups, here are a few options you can try:\nRegistry Tweak to Disable Promotional Content\nThis tweak disables all promotional suggestions in Edge, including Google’s Chrome ads and sign-in prompts.\nPress Win + R, type regedit, and press Enter.\nNavigate to:\nHKEY_CURRENT_USER\\SOFTWARE\\Policies\\Microsoft\\Edge\nRight-click the Edge folder > New > DWORD (32-bit) Value.\nName it: ShowRecommendationsEnabled\nSet the value to 0.\nRestart Edge.\n*Disclaimer: Generally, modifying registry subkeys or work groups is intended for advanced users, administrators, and IT Professionals. It can help fix some problems, however, serious problems might occur if you modify the registry incorrectly. Therefore, make sure that you follow these steps carefully. For further protection, back up the registry before you modify it. Then, you can restore the registry if a problem occurs. For more information about how to back up and restore the registry, click How to back up and restore the registry in Windows - Microsoft Support to view the article. \nStrict Tracking Prevention\nGoogle’s popups may be triggered by tracking cookies.\nGo to: edge://settings/privacy\nSet Tracking prevention to Strict\nClear cookies and site data for google.com\nConsider Changing Your Homepage\nIf your Edge homepage or new tab page is set to google.com, please consider switching to a different page may help avoid triggering these popups:\nabout:blank (a completely empty page)\nedge://newtab (Edge’s default new tab experience)\nOr a custom homepage that doesn’t load Google directly\nIf you have any further questions or need additional assistance, please don’t hesitate to contact us. We’re here to help.",
+        "@ CN : Thanks for reply back. From your new fixes \"The registry tweaks to disable\npromotional content\" I prefer Not to mess up, with the regedit. But modified the\ntracking prevention to \"Strict\" close & reopen Edge. The popups return them\nSo, I roll back to \"Balance\" Prevention : Regarding changing my - Home page rather\nkeep it as I have. The issue may resolve itself. Rated your answer. .. Read you around,.!",
+        "Hi aReply4u0084,\nThank you for your response and for taking the time to rate the answer — I truly appreciate it as it can help assist others who might have similar questions and to help us improve our support system.\nI completely understand your preference to avoid making changes via the registry. It’s always best to proceed with caution, especially when it comes to system-level tweaks. Your decision to test Edge’s tracking prevention settings was a good approach. It’s interesting to hear that switching to “Strict” caused the popups to return, and reverting to “Balanced” seems like a reasonable workaround for now.\nRegarding your homepage, keeping it unchanged makes perfect sense. These types of issues can sometimes resolve themselves following browser updates or backend adjustments.\nIf the issue persists or you’d like to explore other solutions, feel free to reach out anytime. I’m always happy to assist."
+      ]
+    },
+    "answers": [
+      {
+        "text": "Attention to : DB - Thanks for the suggested solution, but didn't work.. Removed temporary the\nedge extensions - closed and open edge browser, but after view all that, amount of news+Ads. clicked the - Edge home icon - but the Google pop-ups : To try chrome reappears. So, no luck\nTo : CN - I open my Google account, clicked the security option. But could find\nthe setting called \"Google account Sign - in prompts\" to toggle off\nAlso, opened notifications > customized behavior. Add it <Google.com> to be\nblocked but didn't work, when I close and reopen edge. The popus show again\nand same when I add it <Google.com> in Popups & redirects. No fixed the issue\nLike I said above, these google ads-offers start to appears. When they introduced the\nAI icon at the - End of the search bar. Noticed that after this icon, get highlighted\nby itself to trigger the AI - Make these pop-ups visible. Thanks for your help\nI'll be clicking the button [No interested] To remove it. until find a fix.\nMiiicccccrrooosssooffftttt-Eeeeeedddddgggggeeeeeeeee\nThese pop-ups are the same like the - Horizontal black Ad - displayed by Google years\nbefore, near the address bar. Where they invite, users to try Google search or chrome\nSee the screenshot, with the AI icon Mode - on the search bar and the Popup offer",
+        "is_accepted": false,
+        "is_ai": false,
+        "comments": [
+          "Hi aReply4u0084,\nThanks again for your detailed feedback. Based on your observations, it seems the pop-ups began appearing after Google introduced the AI icon in the search bar. This icon may be triggering promotional overlays, similar to the horizontal ads Google used in the past to promote Chrome.\nIf you're interested in keeping the AI features active, but want to stop the pop-ups, here are a few options you can try:\nRegistry Tweak to Disable Promotional Content\nThis tweak disables all promotional suggestions in Edge, including Google’s Chrome ads and sign-in prompts.\nPress Win + R, type regedit, and press Enter.\nNavigate to:\nHKEY_CURRENT_USER\\SOFTWARE\\Policies\\Microsoft\\Edge\nRight-click the Edge folder > New > DWORD (32-bit) Value.\nName it: ShowRecommendationsEnabled\nSet the value to 0.\nRestart Edge.\n*Disclaimer: Generally, modifying registry subkeys or work groups is intended for advanced users, administrators, and IT Professionals. It can help fix some problems, however, serious problems might occur if you modify the registry incorrectly. Therefore, make sure that you follow these steps carefully. For further protection, back up the registry before you modify it. Then, you can restore the registry if a problem occurs. For more information about how to back up and restore the registry, click How to back up and restore the registry in Windows - Microsoft Support to view the article. \nStrict Tracking Prevention\nGoogle’s popups may be triggered by tracking cookies.\nGo to: edge://settings/privacy\nSet Tracking prevention to Strict\nClear cookies and site data for google.com\nConsider Changing Your Homepage\nIf your Edge homepage or new tab page is set to google.com, please consider switching to a different page may help avoid triggering these popups:\nabout:blank (a completely empty page)\nedge://newtab (Edge’s default new tab experience)\nOr a custom homepage that doesn’t load Google directly\nIf you have any further questions or need additional assistance, please don’t hesitate to contact us. We’re here to help.",
+          "@ CN : Thanks for reply back. From your new fixes \"The registry tweaks to disable\npromotional content\" I prefer Not to mess up, with the regedit. But modified the\ntracking prevention to \"Strict\" close & reopen Edge. The popups return them\nSo, I roll back to \"Balance\" Prevention : Regarding changing my - Home page rather\nkeep it as I have. The issue may resolve itself. Rated your answer. .. Read you around,.!",
+          "Hi aReply4u0084,\nThank you for your response and for taking the time to rate the answer — I truly appreciate it as it can help assist others who might have similar questions and to help us improve our support system.\nI completely understand your preference to avoid making changes via the registry. It’s always best to proceed with caution, especially when it comes to system-level tweaks. Your decision to test Edge’s tracking prevention settings was a good approach. It’s interesting to hear that switching to “Strict” caused the popups to return, and reverting to “Balanced” seems like a reasonable workaround for now.\nRegarding your homepage, keeping it unchanged makes perfect sense. These types of issues can sometimes resolve themselves following browser updates or backend adjustments.\nIf the issue persists or you’d like to explore other solutions, feel free to reach out anytime. I’m always happy to assist."
+        ]
+      },
+      {
+        "text": "Hi aReply4u0084,\nThank you for contacting Microsoft Q&A. I understand how disruptive it can be to encounter recurring sign-in prompts, particularly when using Microsoft Edge as your preferred browser. I appreciate you bringing this to our attention and sharing the details of your experience.\nThe popup you are seeing in the lower-right corner of the Edge homepage is a prompt from Google, encouraging users to sign in to their Google account. This behavior is typically triggered when Google is set as the default search engine and the user is not currently signed in. While this may be intended to enhance cross-platform synchronization, it can understandably feel intrusive, especially when using a browser other than Chrome.\nTo help you resolve this issue, I recommend these following steps along with disabling extensions on Edge as per above suggestion:\nStep 1: Disable Google Account Sign-In Prompts\nThis method works across all browsers and devices:\nVisit Google My Account.\nNavigate to Security > Your Connections to Third-Party Apps & Services.\nClick See All Connections.\nTap the gear icon in the top-right corner.\nToggle off Google Account Sign-In Prompts.\nYou may need to repeat this process for each Google account you are signed into. Once disabled, this setting should prevent the prompt from appearing across all browsers.\n*Disclaimer: Microsoft provides no assurances and/or warranties, implied or otherwise, and is not responsible for the information you receive from the third-party linked sites or any support related to technology. \nStep 2: Block Popups and disable notifications from Google in Microsoft Edge\nOpen Edge and go to Settings > Privacy, search, and services > Site permissions > All permissions > Pop-ups and redirects.\nEnsure Block (recommended) is enabled.\nAdd google.com to the Not allowed to send pop-ups or use redirects list to prevent further prompts.\nAlso in Privacy, search, and services > Site permissions > All permissions > Notifications > Customized behaviors\nScroll to Allow and locate google.com.\nClick the three dots next to it and select Block.\nThis prevents Google from sending notification-based prompts, including sign-in suggestions.\nStep 3: Clear Cookies and Cache\nClearing stored browsing data may help remove session information that triggers the popup:\nGo to Settings > Privacy, search, and services.\nUnder Clear browsing data, select Cookies and other site data and Cached images and files.\nClick Clear now.\nStep 4: Use a Different User Profile in Edge\nCreating a new profile can help determine whether the issue is tied to your current profile’s settings or extensions:\nClick your profile icon in the top-right corner of Edge.\nSelect Add profile and choose Start without signing in.\nSet up the new profile and test whether the popup still appears.\nPlease keep me posted on how it goes, and feel free to reach out if you need any further assistance. I'm here to help.\nIf the answer is helpful, please click \"Accept Answer\" and kindly upvote it. If you have extra questions about this answer, please click \"Comment\".  \nNote: Please follow the steps in our documentation to enable e-mail notifications if you want to receive the related email notification for this thread.",
+        "is_accepted": false,
+        "is_ai": false,
+        "comments": []
+      },
+      {
+        "text": "Hi ,\nI'm Dyari. Thanks for reaching out. I will be happy to assist you in this regard.\nIt seems something else related to Google is running in the background when you are using Edge.\nKindly click on the three dots above > Extensions> Manage Extensions > Disable all the enabled extensions temporarily to see if the issue is fixed.",
+        "is_accepted": false,
+        "is_ai": false,
+        "comments": []
+      }
+    ]
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/answers/questions/5864193/hidden-bookmarks-disappeared",
+    "title": "Hidden bookmarks disappeared",
+    "question": {
+      "text": "No matter what I do, I have not been able to restore my bookmarks in Microsoft Edge in Windows 11. What else can be done?",
+      "comments": [
+        "Hi Mara Pemberton,\nI hope everything is going well on your end. Just wanted to check in and see how things are going for you lately, anything you'd like to share or discuss?"
+      ]
+    },
+    "answers": [
+      {
+        "text": "Hi Mara Pemberton,\nAre the Q&A Assist suggestions helpful to you?\nIf you are still unable to recover your bookmarks after trying them, please feel free to let me know.\nThank you for your time.",
+        "is_accepted": false,
+        "is_ai": false,
+        "comments": [
+          "Hi Mara Pemberton,\nI hope everything is going well on your end. Just wanted to check in and see how things are going for you lately, anything you'd like to share or discuss?"
+        ]
+      },
+      {
+        "text": "In Microsoft Edge on Windows 11, hidden or older bookmark-related data may still be available even if it looks like it has disappeared, depending on how it was stored and synced.\nCheck if favorites are just hidden by the Favorites bar setting\nSelect Settings and more (three dots in the top-right) > Settings.\nSelect Appearance.\nUnder Other appearance settings, select Toolbar, then locate Favorites bar.\nChoose Always or Only on new tabs instead of Never to make sure the favorites bar is visible.\nVerify that the correct Edge profile is in use and syncing\nIf a new profile was created (for example, “Profile 2”), favorites may be associated with a different profile.\nIn the top-right of Edge, select the profile icon and switch back to the original profile.\nEnsure the profile is signed in and sync is turned on so favorites can be restored from the cloud.\nConfirm that reading list and “tabs set aside” items are now in Favorites\nOlder Edge features like Reading list and Tabs you set aside are no longer separate; their items are moved into Favorites.\nSelect Settings and more > Favorites > Other favorites.\nLook for folders such as Reading list saves and Tabs set aside to see if the missing items are stored there.\nUse Windows backup and sync to restore Edge preferences\nIf Windows backup and Edge sync were enabled previously, signing into Edge with the same Microsoft account and turning on sync can restore favorites.\nOpen Settings > Accounts > Windows backup and ensure preferences are being remembered.\nIn Edge, sign in and enable sync so favorites and other browser data are pulled back from the cloud.\nIf favorites were deleted locally but sync was active, they may already be removed from the cloud as well; in that case, recovery options are limited beyond checking other profiles or devices where Edge is signed in.\nReferences:\nHide your favorites bar in Microsoft Edge\nFind your reading list, web notes, and tabs in Microsoft Edge\nBack up and restore with Windows Backup",
+        "is_accepted": false,
+        "is_ai": true,
+        "comments": []
+      }
+    ]
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/answers/questions/5639818/font-size-change-to-small-for-no-reason",
+    "title": "Font size change to small for no reason.",
+    "question": {
+      "text": "Font size changed to small for no reason. All files, icons etc. effective. Tried changing font back to original size using settings/ display and font size. No help",
+      "comments": [
+        "I have the exact same problem. I only use one display and I don't change display settings but this just randomly happens to me in Windows 11. I've set my Text Size to 125% but all text suddenly shrinks and I keep having to go back and adjust it manually. It's pretty frustrating.",
+        "This link might help https://www.youtube.com/watch?v=r96N9A25UFo",
+        "I've done just about everything you suggested, with the exception of \"Clear DPI Override,\" and the font size is still not right. The background colors have also been changing without explanation."
+      ]
+    },
+    "answers": [
+      {
+        "text": "Same happens in my case since the move to new Teams. It's a two monitor setup. At times, when I wake up the monitors after not using them for several minutes, if Teams is displaying, it seems to resize fonts, icons, buttons, etc. Teams is the only application for which this is happening so far. Other open applications are not experiencing the same issue. Manually increasing the zoom works, but if you restart Teams then it looks oversized. So the only solution so far has been to restart Teams. That restores the right sizes.",
+        "is_accepted": false,
+        "is_ai": false,
+        "comments": []
+      },
+      {
+        "text": "I had the same issue, which led me here after a quick search. Tried all the solutions, but those didn't work for me.\nI have a second screen and after unplugging it while the computer was on from the usb-c/hdmi port the font size on the icons was restored. I re-inserted the cable and the font size was still good.",
+        "is_accepted": false,
+        "is_ai": false,
+        "comments": []
+      },
+      {
+        "text": "Hi,\nThanks for reaching out. It sounds like your display scaling or DPI settings may have changed, which can make everything look smaller. Could you confirm if this happens only on the desktop and menus or also inside apps like browsers and Office? That will help us figure out if it’s a system-wide issue or something app-specific.\nTry checking your display settings by right-clicking the desktop and opening Display settings. Under “Scale and layout,” make sure it’s set to the recommended value, usually 100% or 125%. Also check that your resolution is set to the recommended level.\nIf needed, go to Settings → Accessibility → Text size and adjust the slider.\nIf the problem continues,Clear DPI Override\nIf the problem continues:\nPress Win + R, type control, and hit Enter to open Control Panel.\nGo to Appearance and Personalization → Display → Set custom scaling.\nRemove any custom scaling and click Apply.\nRemove any custom scaling in Control Panel and reset app zoom to 100%. If none of these steps work, the issue might be a corrupted display profile, a graphics driver problem, or a recent update that changed DPI settings.\n\"Let me know if this helps and need clarification, I'm happy to help!\nWarm regards,\nEdward",
+        "is_accepted": false,
+        "is_ai": false,
+        "comments": [
+          "I've done just about everything you suggested, with the exception of \"Clear DPI Override,\" and the font size is still not right. The background colors have also been changing without explanation."
+        ]
+      },
+      {
+        "text": "If the font size on your Windows 11 system has changed unexpectedly, it could be due to various reasons such as system settings or accessibility features. Here are some steps you can take to troubleshoot and potentially resolve the issue:\nCheck Display Settings: Go to Settings > System > Display. Under the Scale and layout section, ensure that the scaling is set to 100% or your preferred size.\nText Size Adjustment: In the Settings > Ease of Access > Display section, you can adjust the text size using the Make text bigger slider. Make sure it is set to your desired size.\nFont Settings in Applications: If you are using specific applications like Microsoft Edge or others, check their individual settings for font size adjustments. For example, in Microsoft Edge, you can adjust the font size in the settings under Appearance.\nReset Font Settings: If you have customized font settings, you might want to reset them to default. In applications like Visual Studio, you can go to Tools > Options > Environment > Fonts and Colors and select Use Defaults.\nAccessibility Options: Ensure that any accessibility features that may affect font size are configured correctly. You can find these settings in the Ease of Access section of the Windows settings.\nIf these steps do not resolve the issue, consider checking for any recent updates or changes to your system that might have affected font settings.\nReferences:\nText scaling\nSet accessibility options",
+        "is_accepted": false,
+        "is_ai": true,
+        "comments": []
+      }
+    ]
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/answers/questions/5867064/cant-copy-paste-from-bing-image-search",
+    "title": "Can't copy-paste from Bing Image Search?",
+    "question": {
+      "text": "For some reason, ever since some new update, I cannot properly copy-paste any image off of Bing. When i try to do so, by right-clicking, it instead doesn't show that option, as it selects random parts of the image and thinks I want to search with them. I do NOT want to search with them. How do I remove this stupid feature? I just want to be able to copy and paste images from Bing AND not have an option to click to search on parts of the image. I need to right-click to copy-paste and I will not settle for some work-around. Thanks.",
+      "comments": [
+        "Hi Daniel G, I hope the answer above was informative to your situation. If there's anything you're not sure, let me know."
+      ]
+    },
+    "answers": [
+      {
+        "text": "Hi Daniel G,\nI understand how annoying it is when right‑click on images doesn’t behave as you expected. This might be related to the Visual Search feature in Edge, so let’s check if we can turn it off and whether this helps:\nOpen Microsoft Edge > Click the three-dot next to your profile\nChoose Settings > Appearance > Browser behavior and features\nScroll to Visual search > Turn OFF all, especially Enable Visual Search\nIf they’re already off, try turning it on\nRestart Edge then go back and turn off.\nClose Edge completely and reopen it > try right‑clicking an image again.\nI hope that once you disable Visual Search, Bing will stop forcing the “select parts of image” behavior and revert to standard right‑click handling.\nIf the answer is helpful, please click \"Accept Answer\" and kindly upvote it. If you have extra questions about this answer, please click \"Comment\".\nNote: Please follow the steps in our documentation to enable e-mail notifications if you want to receive the related email notification for this thread.",
+        "is_accepted": false,
+        "is_ai": false,
+        "comments": [
+          "Hi Daniel G, I hope the answer above was informative to your situation. If there's anything you're not sure, let me know."
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/answers/questions/5842345/my-pinned-tabs-disappeared-and-i-cannot-even-see-t",
+    "title": "my pinned tabs disappeared and I cannot even see them on my history",
+    "question": {
+      "text": "I pinned specific tabs on my Microsoft edge and on opening the laptop again, other tabs yet the pinned ones have disappeared",
+      "comments": [
+        "with a question solved, can i delete it",
+        "Hi,\nI just wanted to follow up and check if the information I provided was helpful. If you have any further questions or updates regarding this issue, please feel free to let me know in the Comments section. I'd be happy to assist you."
+      ]
+    },
+    "answers": [
+      {
+        "text": "Hi Adelheid Bartilla,\nThank you for reaching out. I understand how inconvenient it can be when pinned tabs are no longer available after reopening Microsoft Edge. In some situations, pinned tabs may not reappear if the browser session was not fully restored or if multiple Edge windows were closed in a specific order. You can try the following checking steps and workarounds:\nOpen Microsoft Edge > Settings\nGo to Start, home, and new tabs\nUnder When Edge starts, select Open tabs from the previous session\nIf the pinned tabs are missing\nOpen History (Ctrl + H) and check Recently closed\nReopen the needed pages and pin them again\nAs preventive workaround, you can save frequently used pinned sites to Favorites, or\nGo to Settings > Start, home, and new tabs > Open custom sites on startup then add the URLs you always want to open\nThese options help ensure quick access to important sites even if pinned tabs do not restore as expected.\nLet me know if you need further assistance, feel free to ask me by clicking \"Add Comment\" or \"Add Answer\" if you cannot add comment so your response will be visible. Thanks for your effort.\nNote: Please follow the steps in our documentation to enable e-mail notifications if you want to receive the related email notification for this thread.",
+        "is_accepted": false,
+        "is_ai": false,
+        "comments": [
+          "Hi,\nI just wanted to follow up and check if the information I provided was helpful. If you have any further questions or updates regarding this issue, please feel free to let me know in the Comments section. I'd be happy to assist you."
+        ]
+      },
+      {
+        "text": "Pinned tabs in Microsoft Edge are part of the current browsing session, not a separate, backed‑up list like Favorites or Reading list. When a session is lost (for example due to a crash, profile change, sign‑out, or certain settings), pinned tabs can disappear and they will not show up separately in History. Only the sites that were actually visited appear in History, and there is no special “pinned tabs” history view to restore them as a group.\nTo reduce the risk of losing important pinned tabs in the future and improve recovery options:\nSave important pinned sites as Favorites\nOpen each site that needs to be kept.\nSelect Settings and more (… ) > Add to favorites.\nOptionally create a folder (for example, “Pinned tabs”) so they can be reopened together.\nThis works because Edge keeps Favorites even when sessions are lost, and older features such as Reading list and “Tabs you set aside” were also migrated into Favorites.\nConfigure Edge to reopen previous tabs on startup\nGo to Settings and more (… ) > Settings > Start, home, and new tab page.\nSelect Open tabs from the previous session.\nWith this enabled, Edge will reopen the last session’s tabs (including pinned ones) on startup, as long as the session data has not been cleared.\nBe aware of limits to session restore\nIf browsing data is configured to be cleared on close, the content of the session can be removed even when “Open tabs from the previous session” is selected; only the URLs needed for the next startup are kept.\nTabs from InPrivate or Guest mode are never restored on startup.\nIf Edge is not reliably restoring tabs\nIf tabs (including pinned ones) frequently fail to restore even with the startup setting enabled, repair Edge:\nClose Edge for all users.\nOpen Start > Settings > Apps > Installed apps.\nSelect Microsoft Edge > Modify.\nApprove the prompt and choose Repair.\nThis keeps browser data and settings but can fix issues that prevent normal session behavior.\nBecause pinned tabs are session‑based, once they are gone and not present in the current session or visible in History, Edge does not provide a built‑in way to reconstruct that exact pinned set. Using Favorites (and folders) plus the “Open tabs from the previous session” startup option is the supported way to keep important sites from being lost.\nReferences:\nUser data and privacy in Microsoft Edge\nWhat to do if Microsoft Edge isn't working\nFind your reading list, web notes, and tabs in Microsoft Edge",
+        "is_accepted": false,
+        "is_ai": true,
+        "comments": []
+      }
+    ]
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/answers/questions/5790273/microsoft-edge-searches-before-im-done-typing-what",
+    "title": "Microsoft Edge Searches Before I'm Done Typing What I'm Searching For",
+    "question": {
+      "text": "Within the last week or two, I've encountered an issue where I'll start typing in the search bar, and Edge will essentially \"press enter\", stopping me from completing what I'm typing, and searching for results on however much of the search term I was able to type before it cut me off.\nI have run a virus scan, and it came up with nothing. I have also tried restarting my computer, also with no luck in correcting the issue.\nDoes anyone know what might be going on, and how to fix it?",
+      "comments": [
+        "Unfortunately I still have the same issues occurring. This is a fairly new issue, and seems to only be occurring while using Edge, so I'm not sure what is going on.",
+        "Dear @Spokid,\nFor further assistance, kindly contact Microsoft Support via Contact - Microsoft Support.\ni sincerely apologize and thank you for your understanding.",
+        "Same here. It doesn't do it on every search. And this is a recent development. It's really annoying because I am constantly trying to limit my searches per hour in order to NOT get the dreaded \"Unusual search activity\" associated with Microsoft Rewards."
+      ]
+    },
+    "answers": [
+      {
+        "text": "Dear @Spokid,\nThank you for posting your question in the Microsoft Q&A forum.\nI apologize for any inconvenience you may encounter when using our services/ products. Based on your description, as you have tried many steps and it did not work, kindly try this following step:\nPlease confirm that the keyboard is functioning properly, particularly the Enter key.\nTurn off Address Bar “typed characters” suggestions\nOpen Microsoft Edge > Settings and more (… ) > Settings > Privacy, search, and services > Search and connected experiences > Address bar and search > Search suggestions and filters\nTurn Off: Show search and site suggestions using your typed characters\nTurn off “search suggestions as you type” in Bing settings\nGo to Search - Settings > Uncheck \"See search suggestions as you type\" then click \"Save\"\nDisable Edge “Text prediction / Writing assistance”\nOpen Microsoft Edge > Settings and more (… ) > Settings > Languages\nUnder Writing assistance, turn Off Use text prediction\nOptionally set writing assistance to Basic or turn it off\nIsolate extensions and profile corruption\nTry to use InPrivate.\nIf InPrivate is fine: open edge://extensions and disable extensions, then re-enable one-by-one to find the culprit (common with “search helper”, “keyboard”, “translation”, or “security” add-ons).\nI sincerely hope you understand that the initial steps I suggested may not have completely fixed the issue, as there may still be underlying causes that have not yet been identified. I am here to work closely with you, troubleshoot effectively, and explore every possible solution to ensure the best possible outcome.\nIf the answer is helpful, please click \"Accept Answer\" and kindly upvote it. If you have extra questions about this answer, please click \"Comment\". \nNote: Please follow the steps in our documentation to enable e-mail notifications if you want to receive the related email notification for this thread.",
+        "is_accepted": false,
+        "is_ai": false,
+        "comments": [
+          "Unfortunately I still have the same issues occurring. This is a fairly new issue, and seems to only be occurring while using Edge, so I'm not sure what is going on.",
+          "Dear @Spokid,\nFor further assistance, kindly contact Microsoft Support via Contact - Microsoft Support.\ni sincerely apologize and thank you for your understanding.",
+          "Same here. It doesn't do it on every search. And this is a recent development. It's really annoying because I am constantly trying to limit my searches per hour in order to NOT get the dreaded \"Unusual search activity\" associated with Microsoft Rewards."
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/answers/questions/5864255/edge-doesnt-block-ads-on-yahoo-on-same-devices",
+    "title": "Edge Doesn't Block ads on Yahoo! on same Devices",
+    "question": {
+      "text": "MS Edge finally resolved re-blocking ads on Yahoo! but it only does on my HP laptop but not on my Surface Go 2. Both are running Windows 11 except the HP is running Home and the Surface Go 2 is Pro. MS Edge is the exact same build 147.0.3912.72 (Official build) (64-bit).\nThings I've tried:\nMS Edge reinstall-repair\nDelete cookies et all\nInstall Edge Beta\nDelete User Data folder\nDelete Microsoft.MicrosoftEdge folder\nI have tried various ad blockers but Edge blocks fine on my HP without them.\nWhat could be making the HP work but not the Surface GO 2?",
+      "comments": [
+        "Everything matched except; 1. Surface Go 2, Use secure DNS was disabled, 2. HP laptop, edge://components all displayed Status - Update error, and 3. HP shows over 1,200 blocked trackers, Surface Go 2 shows 400 something.",
+        "Hi Don ‪B\nWhat you’re seeing actually points to privacy/config behavior differences.\nFrom your results:\nHP: ~1200 blocked trackers + Secure DNS likely active → fewer Yahoo ads\nSurface: ~400 trackers + Secure DNS OFF → more trackers allowed → ads show\nThis aligns with how Edge works, ads on Yahoo depend heavily on tracker blocking, not a dedicated ad blocker.\nWhat to try on your Surface:\nEnable Use secure DNS (match HP exactly, including provider)\nSet Tracking prevention to Strict (test impact)\nCheck edge://components → force update Trust Protection Lists\nRestart Edge after changes\nIf behavior changes after these, it confirms it’s tracker classification + DNS behavior, not OS edition or Edge build.",
+        "I forgot to mention that I did turn on Secure DNS. And I always have Tracking Protection on Strict. The edge://components that were not updating were on the HP, not the Surface Go 2. My HP doesn't exhibit fewer ads. It literally has no ads is what I am used to.\nMy Surface Go 2 used to block all ads. Also, this only happens on Yahoo.com. I've long since cleared all caches and Yahoo cookies but to no avail.",
+        "Hi Don ‪B\nAfter all the troubleshooting, this confirms it, it has came down to device-based behavior. Edge tracking prevention relies on locally stored tracker classification lists (Trust Protection Lists), and these are maintained per device, so two devices can block very different sets of trackers even with identical settings and versions.\nThere’s no reliable way to force them to behave identically, if you need consistent ad blocking (especially on sites like Yahoo), you’ll need a dedicated content blocker rather than relying on Edge’s built-in tracking prevention.\nI know this isn't the answer you're looking for, but it is designed that way and there's no further fix we can try.\nYou can still try contacting Microsoft Support directly to explore their expertise on this at https://support.microsoft.com/contactus\nHave a great day!",
+        "I hear you but for years they used to be identical. Then for some reason, Yahoo! ads were not blocked at all on any device.\nI sent feedback and after a while later, an update blocked Yahoo! ads but not consistently on my Surface Go 2. If I toggle Strict tracking protection off and then on, Yahoo! ads are blocked but only temporarily on the Surface Go 2.\nAds are blocked consistently on all other sites except Yahoo!."
+      ]
+    },
+    "answers": [
+      {
+        "text": "Hi Don ‪B\nIf Edge blocks Yahoo ads on one PC but not the other with the same Edge build, the cause is almost always device‑level settings or policies, not Edge itself.\nA few things you can check on the Surface Go 2 (Windows 11 Pro):\nTracking prevention level (edge://settings/privacy) - it must match exactly (Balanced or Strict) and have no Yahoo exceptions.\nEdge policies (edge://policy) - Pro can enforce Local Group Policy/MDM settings that Home cannot. If anything appears here, Edge behavior will differ.\nPersonalized advertising & experiences - if enabled on the Surface but disabled on the HP, Yahoo ads will reappear.\nSecure DNS (DoH) settings - differences can affect tracker blocking.\nTrust Protection Lists (edge://components) - different versions/refresh states can temporarily change tracker blocking.\nThis explains why the HP (Home) works but the Surface (Pro) doesn’t, even with identical Edge versions.\nFeel free to update here if anything comes up!\nIf the answer is helpful, please click \"Accept Answer\" and kindly upvote it. If you have extra questions about this answer, please click \"Comment\".\nNote: Please follow the steps in our documentation to enable e-mail notifications if you want to receive the related email notification for this thread.",
+        "is_accepted": false,
+        "is_ai": false,
+        "comments": [
+          "Everything matched except; 1. Surface Go 2, Use secure DNS was disabled, 2. HP laptop, edge://components all displayed Status - Update error, and 3. HP shows over 1,200 blocked trackers, Surface Go 2 shows 400 something.",
+          "Hi Don ‪B\nWhat you’re seeing actually points to privacy/config behavior differences.\nFrom your results:\nHP: ~1200 blocked trackers + Secure DNS likely active → fewer Yahoo ads\nSurface: ~400 trackers + Secure DNS OFF → more trackers allowed → ads show\nThis aligns with how Edge works, ads on Yahoo depend heavily on tracker blocking, not a dedicated ad blocker.\nWhat to try on your Surface:\nEnable Use secure DNS (match HP exactly, including provider)\nSet Tracking prevention to Strict (test impact)\nCheck edge://components → force update Trust Protection Lists\nRestart Edge after changes\nIf behavior changes after these, it confirms it’s tracker classification + DNS behavior, not OS edition or Edge build.",
+          "I forgot to mention that I did turn on Secure DNS. And I always have Tracking Protection on Strict. The edge://components that were not updating were on the HP, not the Surface Go 2. My HP doesn't exhibit fewer ads. It literally has no ads is what I am used to.\nMy Surface Go 2 used to block all ads. Also, this only happens on Yahoo.com. I've long since cleared all caches and Yahoo cookies but to no avail.",
+          "Hi Don ‪B\nAfter all the troubleshooting, this confirms it, it has came down to device-based behavior. Edge tracking prevention relies on locally stored tracker classification lists (Trust Protection Lists), and these are maintained per device, so two devices can block very different sets of trackers even with identical settings and versions.\nThere’s no reliable way to force them to behave identically, if you need consistent ad blocking (especially on sites like Yahoo), you’ll need a dedicated content blocker rather than relying on Edge’s built-in tracking prevention.\nI know this isn't the answer you're looking for, but it is designed that way and there's no further fix we can try.\nYou can still try contacting Microsoft Support directly to explore their expertise on this at https://support.microsoft.com/contactus\nHave a great day!",
+          "I hear you but for years they used to be identical. Then for some reason, Yahoo! ads were not blocked at all on any device.\nI sent feedback and after a while later, an update blocked Yahoo! ads but not consistently on my Surface Go 2. If I toggle Strict tracking protection off and then on, Yahoo! ads are blocked but only temporarily on the Surface Go 2.\nAds are blocked consistently on all other sites except Yahoo!."
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/answers/questions/5863234/error-aadsts165000",
+    "title": "error- AADSTS165000",
+    "question": {
+      "text": "I have this issue: need help:\nOutlook mobile sign in error- AADSTS165000",
+      "comments": [
+        "Hello Emily - it is my new iPhone only (3-4 months old) - not my laptop. It is a personal email account. Here is the full error message:",
+        "I saw the question is asked in the Edge category, but you mentioned reinstalling Outlook, so is this when signing into a certain website in Edge, or signing into the Outlook app?",
+        "Hello EmilyS726 - it was signing into the Outlook app - I am unable to access my Hotmail account from my iPhone - either app or via the web. I tried a different browser - from Safari to Edge - the same error message.\nThanks for your replies and considering my tech-issue. Vincenta",
+        "You said it was isolated to this device only. Is this a work/school assigned device? Or have you ever signed into a work/school account on this device prior?",
+        "It's my private phone and my private email - no, I never signed into a work/ school account on my phone.",
+        "This error is specifically to work/school account.\nDid you purchase this phone brand new? Or refurbished or used?"
+      ]
+    },
+    "answers": [
+      {
+        "text": "Hello\nI need more info please -\nIs this on your iPhone only ?\nWhat exactly are you signing into, a certain website? Or app?\nAre you using a work/school assigned account?\nCan you provide the full error message - typically there's information after that AADSTS error code, can you share that part as well please. Thanks!",
+        "is_accepted": false,
+        "is_ai": false,
+        "comments": [
+          "Hello Emily - it is my new iPhone only (3-4 months old) - not my laptop. It is a personal email account. Here is the full error message:"
+        ]
+      },
+      {
+        "text": "Actions already completed:\nReset Network Settings\nReset All Settings\nReset Location & Privacy\nCleared saved passwords/credentials\nDeleted and reinstalled Outlook\nRestarted device\nOutcome:\nIssue persists on clean setup\nAppears isolated to this device (iOS authentication layer)",
+        "is_accepted": false,
+        "is_ai": false,
+        "comments": [
+          "I saw the question is asked in the Edge category, but you mentioned reinstalling Outlook, so is this when signing into a certain website in Edge, or signing into the Outlook app?",
+          "Hello EmilyS726 - it was signing into the Outlook app - I am unable to access my Hotmail account from my iPhone - either app or via the web. I tried a different browser - from Safari to Edge - the same error message.\nThanks for your replies and considering my tech-issue. Vincenta",
+          "You said it was isolated to this device only. Is this a work/school assigned device? Or have you ever signed into a work/school account on this device prior?",
+          "It's my private phone and my private email - no, I never signed into a work/ school account on my phone.",
+          "This error is specifically to work/school account.\nDid you purchase this phone brand new? Or refurbished or used?"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/answers/questions/5861282/my-search-feature-for-gifs-and-emojis-is-gone",
+    "title": "My search feature for GIFs and Emojis is gone!",
+    "question": {
+      "text": "Hello, Microsoft.\nI have a problem here. The search feature to find\nGIFs and Emojis on the fly has gone missing. Idk, I found out about this problem just this morning.\nThe search tool helped me type in the name of GIFs and Emojis that I'm looking for, and I don't want to lose it.\nHow did this happen, and is there any way to recover it? Please answer back soon. Thanks.\nFrom,\nJamie Poff\n(Image shows that the search tool that's usually there is gone)",
+      "comments": [
+        "Does this happen in case of the default language and keyboard (if you use multiple input languages)?",
+        "seems to be broken - I also used to do START+DOT and start typing to search for a gif, but now it closes the emoji/gif window and continues typing the original text field."
+      ]
+    },
+    "answers": [
+      {
+        "text": "When you press the Windows key + . the emoji/gif window doesn't appear?\nPress Windows key + R, type services.msc and press Enter.\nLocate Touch Keyboard and Handwriting Panel Service.\nDouble‑click the service and set Startup type to Automatic.\nIf the service is not running, click Start, then Apply and OK.\nTest Windows key + . again.\nAnother step is to check if ctfmon.exe is running.\nPress Windows key + R.\nType C:\\Windows\\System32\\ctfmon.exe and press Enter.\nTry the emoji shortcut again.",
+        "is_accepted": false,
+        "is_ai": false,
+        "comments": []
+      }
+    ]
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/answers/questions/5867527/ms-edge-windows-closes-shortly-after-starting-repa",
+    "title": "MS Edge windows closes shortly after starting, repair function/sfc scannow not helping",
+    "question": {
+      "text": "Hi there\nMS edge has been behaving strangely of late on my Lenovo notebook, with Win 11 Pro, ALL available Windows Updates installed, with AMD Ryzen 7 5800U, 16GB RAM, all Lenovo drivers/software up-to-date. I have used Windscribe VPN add-on for years with no issue. It suddenly stopped working with some error message and when I tried to re-install it, the process always failed. I continued using the add-on in Firefox. I think I could also not install any other add-ons, both from the Chrome & MS store.\nToday, suddenly, when an application, ArcGIS failed to open a link in Edge, I tried opening it manually and noticed a blank window briefly appears and then disappears even before it gets fully loaded.\nI tried using the Apps => repair function, it did not help. Both sfc /scannow & DISM restore-health find no violation and even after restart, no change.\nSo what can I do to get MS Edge working again?\nI read one can completely uninstall it, though it was mentioned that could be problematic, and re-install it, but have not tried that yet.\nI would very much appreciate your help, with clear instructions.\nKind regards",
+      "comments": [
+        "I had already tried out some of the solutions suggested in the AI response, then did the rest, including trying to install Edge over the existing faulty one. All did not solve the problem.\nI then went on to try an In Place Installation to try and repair Windows with a freshly downloaded .iso file, but frustratingly, the set-up fails trying to validate the key of the Win 11 Pro (which I bought online) and successfully upgraded from Win 11 Home a couple of months ago ...\nand activated with no problem. So I am now stuck with a completely different unconnected issue.\nI just want normally functioning MS Edge, but also do not expect not to be able to upgrade or repair Windows because this unexpected issue.\nStrangely, the key that I got from the vendor looks different from the one I see when I use some command (Get-WmiObject -query 'select * from SoftwareLicensingService').OA3xOriginalProductKey ... to retrieve it. Quite confusing for an amateur.\nWill appreciate your assistance, apparently for both issues and the last question.\nFurthermore, under Apps, the Modify option for Edge is deactivated, with only Uninstall. Is it safe to uninstall & re-install from a fresh downloaded file?\nRegards"
+      ]
+    },
+    "answers": [
+      {
+        "text": "Based on the described symptoms (Edge window opens briefly then closes, add-ons failing to install, sfc/DISM showing no issues), use the following Edge‑specific troubleshooting steps before attempting a full uninstall.\nClose all Edge processes and other apps\nMake sure no Edge windows are open.\nClose other apps, especially those that might use embedded Edge/WebView2 (for example, Teams, new Outlook, widgets, or ArcGIS components) so no Edge files are locked.\nCheck that Edge can update and is on a supported OS\nConfirm Windows 11 is fully updated (already done) and that the device meets Edge OS requirements.\nTry to start Edge once more and, if it stays open long enough, go to:\nSettings and more (… ) > Settings > About Microsoft Edge and let it check for and apply any Edge updates.\nGeneral Edge crash troubleshooting When Edge opens then closes or fails to load pages:\nFree up memory:\nClose all other browser tabs, apps, and pause any downloads.\nRestart the device and try Edge again.\nScan the device for malware using Windows Security (Windows 11 uses the same Windows Security experience as Windows 10 referenced in the article). Follow the “Run a scan manually” steps in Windows Security and remove any detected threats.\nIf third‑party security software (for example, Windscribe’s desktop client, other AV/VPN) is installed, ensure it is fully updated. Out‑of‑date security software can interfere with Edge processes and extensions.\nRepair Microsoft Edge from Apps settings Since the standard “Repair” from Apps was already tried, repeat it ensuring all prerequisites are met:\nClose Edge for all user accounts on the device.\nConfirm the signed‑in account has local administrator rights.\nGo to Start > Settings > Apps > Installed apps.\nSelect Microsoft Edge > Modify.\nApprove the UAC prompt.\nEnsure the device is online and choose Repair. This process reinstalls Edge components while preserving browser data and settings.\nRun the Program Compatibility Troubleshooter for Edge If Edge still closes immediately, run the Windows Program Compatibility Troubleshooter against Edge:\nSelect Start > Settings > Update & Security.\nSelect Troubleshoot > Additional troubleshooters.\nUnder Find and fix other problems, select Program Compatibility Troubleshooter.\nSelect Run the troubleshooter and follow the prompts, choosing Microsoft Edge when asked which program to troubleshoot.\nClear Edge update cache Corrupted update cache can cause instability and failed extension installs.\nNavigate to C:\\Users\\<YourUserName>\\AppData\\Local\\Microsoft\\Edge\\Update\\ and delete the contents of the Update folder.\nRestart the device and try launching Edge again.\nReinstall Edge on top of the existing installation If Edge still will not stay open, reinstall it over the current installation (this is safer than trying to fully remove the built‑in copy):\nOpen another working browser (for example, Firefox, which is already in use).\nGo to the official Edge download page and download the latest installer.\nAfter download, close all apps that might use Edge/WebView2.\nRight‑click the Edge installer and select Run as administrator.\nComplete setup; this will reinstall/repair Edge in place.\nIf reinstall still fails or Edge will not start\nVerify there is at least 1–2 GB of free space on the system drive.\nRestart the device again to clear any pending updates and locked files, then retry the in‑place Edge reinstall.\nIf the problem persists after all steps above, collect details (any error codes, event log entries) and contact Microsoft Support, as recommended in similar cases where in‑place repair and reinstall did not resolve Edge startup failures.\nThese steps address common causes of Edge crashing on startup, failed extension installs, and update corruption without attempting unsupported full removal of Edge from Windows.\nReferences:\nWhat to do if Microsoft Edge isn't working\nTroubleshooting tips for downloading, installing, and updating Microsoft Edge\nInstall, update, or roll back failures for Edge and Edge WebView2\nMicrosoft Edge will not start. - Microsoft Q&A",
+        "is_accepted": false,
+        "is_ai": true,
+        "comments": []
+      }
+    ]
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/answers/questions/5857871/pdf-file-will-not-open-download-or-preview",
+    "title": "Pdf File will not open download or preview",
+    "question": {
+      "text": "pdf attachments in an email received will not ope dowload or preview",
+      "comments": [
+        "tried many of these suggestions but not fixed",
+        "Hi,\nI just wanted to follow up and check if the information I provided was helpful. If you have any further questions or updates regarding this issue, please feel free to let me know in the Comments section. I'd be happy to assist you.",
+        "nothing seems to work very frustrating",
+        "Hi Ronald Sutch,\nI’m really sorry to hear how frustrating this has been. When PDF files won’t open, download, or preview despite trying multiple recommended steps, it usually indicates that the issue is not related to local settings alone.\nHere are some practical workarounds for you to try next:\nOpen the same email and download the PDF using Outlook Desktop (classic) if available\nDownload the attachment first, then open it directly from the local folder\nUse an alternate PDF reader temporarily to access critical files\nThank you for your patience while dealing with this. I know this isn’t a smooth experience, and I appreciate you taking the time to work through the options.",
+        "f\nthis is a microsoft problem",
+        "Hi\nSorry for not giving the best practical workarounds. In case you need further support, I would recommend contacting Microsoft Support following these steps:\nChoose Windows and Get Home Support\nLogin with your personal account, type in \"Live chat\" in Get Help Box - Press enter and click on Contact Support\nSelect Windows as Products and services - Technical Support as Category. Click Confirm\nYou will be prompted with \"Chat with a support agent in your web browser\" - kindly click on it and you will connect with a support agent.\nAdditionally, you can provide your feedback via Feedback Portal as well\nThank you for your time and patience"
+      ]
+    },
+    "answers": [
+      {
+        "text": "Hi Ronald Sutch,\nThank you for reaching out regarding the issue with PDF files not opening, downloading, or previewing from email attachments in Microsoft Edge on Windows 11.\nThis behavior can occur when the PDF preview or attachment rendering service is unable to generate the document preview properly. In some cases, selecting Preview may trigger a download automatically, display a loading spinner, or fail to open the file as expected instead of showing the document content.\nPlease try the checking steps and workarounds below:\n1, Ensure Microsoft Edge is up to date\nOpen Edge, select … (Settings and more) → Settings\nGo to About Microsoft Edge\nInstall any available updates\nMicrosoft Edge includes built‑in support for opening PDF files directly without requiring additional apps.\n2, Open the attachment using Outlook Desktop (Workaround from Q&A Assist)\nIf the issue occurs when previewing or downloading attachments in Outlook on the Web or New Outlook:\nOpen the same email in the Outlook Desktop app\nDownload or open the PDF attachment locally\n3, Check for PowerToys PDF Preview Override\nIf Microsoft PowerToys is installed, it may override the default PDF preview handler. To verify:\nOpen PowerToys\nGo to File Explorer Add‑ons\nTurn OFF Enable PDF (.pdf) preview\nLet me know if you need further assistance, feel free to ask me by clicking \"Add Comment\" or \"Add Answer\" if you cannot add comment so your response will be visible. Thanks for your effort.\nIf my response is helpful to you, please click \"Accept Answer\" and kindly upvote it.\nNote: Please follow the steps in our documentation to enable e-mail notifications if you want to receive the related email notification for this thread.",
+        "is_accepted": false,
+        "is_ai": false,
+        "comments": [
+          "Hi,\nI just wanted to follow up and check if the information I provided was helpful. If you have any further questions or updates regarding this issue, please feel free to let me know in the Comments section. I'd be happy to assist you.",
+          "nothing seems to work very frustrating",
+          "Hi Ronald Sutch,\nI’m really sorry to hear how frustrating this has been. When PDF files won’t open, download, or preview despite trying multiple recommended steps, it usually indicates that the issue is not related to local settings alone.\nHere are some practical workarounds for you to try next:\nOpen the same email and download the PDF using Outlook Desktop (classic) if available\nDownload the attachment first, then open it directly from the local folder\nUse an alternate PDF reader temporarily to access critical files\nThank you for your patience while dealing with this. I know this isn’t a smooth experience, and I appreciate you taking the time to work through the options.",
+          "f\nthis is a microsoft problem",
+          "Hi\nSorry for not giving the best practical workarounds. In case you need further support, I would recommend contacting Microsoft Support following these steps:\nChoose Windows and Get Home Support\nLogin with your personal account, type in \"Live chat\" in Get Help Box - Press enter and click on Contact Support\nSelect Windows as Products and services - Technical Support as Category. Click Confirm\nYou will be prompted with \"Chat with a support agent in your web browser\" - kindly click on it and you will connect with a support agent.\nAdditionally, you can provide your feedback via Feedback Portal as well\nThank you for your time and patience"
+        ]
+      },
+      {
+        "text": "Based on similar symptoms in Outlook and Outlook on the Web, the most common causes when PDF attachments will not open, download, or preview are:\nA product bug or regression that affects attachment preview/download.\nA misconfigured or conflicting PDF handler/previewer.\nBrowser or add‑in interference.\nFor a Microsoft 365/Outlook scenario, use these steps:\nIf using Outlook on the Web (OWA)\nIf this is an on‑premises Exchange environment and the issue started after a recent Cumulative Update, install the latest supported CU for the Exchange version:\nExchange Server 2019: at least Cumulative Update 9 for issues where PDF preview triggers a download and only shows a spinner, or at least Cumulative Update 8 for issues where attachments from an additional mailbox cannot be downloaded or previewed.\nExchange Server 2016: at least Cumulative Update 20 for the PDF preview issue, or at least Cumulative Update 19 for the additional-mailbox attachment issue.\nAs a workaround until the server is updated:\nUse the Outlook desktop client to open or download the PDF attachments.\nOr, if accessing an additional mailbox in OWA, use the OWA light version by appending ?layout=light to the mailbox URL (for example, https://owa.contoso.com/owa/******@contoso.com/?layout=light).\nIf using Outlook desktop and seeing a PDF preview error\nConfirm the PDF previewer is correctly installed and matches Outlook’s bitness:\nIn Outlook, go to File > Office Account > About Outlook and note whether Outlook is 32‑bit or 64‑bit.\nIn Adobe Acrobat Reader, go to Help > About Adobe Acrobat Reader and confirm its bitness.\nIf they do not match, uninstall the current Adobe Acrobat Reader.\nReinstall Adobe Acrobat Reader from the “Adobe Acrobat Reader DC Install for all versions” page, choosing the same bitness as Outlook.\nIf Microsoft PowerToys is installed and PDFs fail to preview:\nOpen PowerToys from the Start menu.\nGo to File Explorer Add-ons.\nTurn off Enable PDF (.pdf) preview so it no longer overrides the PDF preview setting used by Outlook.\nIf attachments fail only in a specific browser session (for example, OWA in a browser)\nReset the browser to defaults, which has resolved similar OWA attachment download failures:\nIn Chrome: Settings > Reset settings > Restore settings to their original defaults.\nAlso reset any browser “Services” or similar feature settings to defaults.\nAfter the reset, sign back into Outlook on the Web and test downloading or previewing the PDF again.\nIf the environment is Exchange Online (Microsoft 365) and none of the above applies, test in another browser and in Outlook desktop. If the issue only occurs in one browser, keep using the browser reset workaround and/or another browser while investigating further.\nReferences:\nPDF preview function in OWA leads to download action unexpectedly\nOutlook PDF preview error: This file cannot be previewed because there is no previewer installed for it\nAttachments can’t be downloaded or previewed from Outlook Web App\nMicrosoft 365 issue opening .pdf - Microsoft Q&A\nUpdate that restricts preview of PDF - Microsoft Q&A\nError message when trying to download attachments from OWA 365 - Microsoft Q&A\n\"You don't have appropriate permission to perform this operation.\" message when I try and open an attachment in Outlook - Microsoft Q&A\nMissing api-ms-win-core-winrt-l1-1-0.dll - Microsoft Q&A",
+        "is_accepted": false,
+        "is_ai": true,
+        "comments": []
+      }
+    ]
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/answers/questions/5863213/how-do-i-stop-my-surface-laptop-5-from-chiming-dri",
+    "title": "How do I stop my Surface Laptop 5 from chiming. Drivers are updated",
+    "question": {
+      "text": "My Surface Laptop 5 keeps chiming. I have asked AI and have completed all their recommendations including updating drivers to no avail. I need some ideas",
+      "comments": [
+        "Hi\nHave you had an opportunity to review the answer shared earlier?  \nAny update you can provide would be greatly appreciated."
+      ]
+    },
+    "answers": [
+      {
+        "text": "Hi Patricia Wilds,\nThank you for the update. Since your Surface Laptop 5 is already fully updated and the chiming continues, the sound may be coming from a Windows notification, a charging/battery status event, or another system sound rather than a missing driver alone.\nHere are some extra checking steps that you can consider trying:\n1, Turn off notification sounds temporarily\nGo to Settings > System > Notifications\nExpand Notifications, turn off Allow notifications to play sounds\n2, Check the Surface app if the sound happens while charging\nOpen the Surface app and go to Battery & charging to review the current charging mode.\nSurface devices can use Smart charging, which may change charging behavior when the device stays plugged in for long periods.\n3, Install the latest Surface-specific driver and firmware package manually\nIf Windows Update shows everything as current, download the latest Surface Laptop 5 driver/firmware package from Microsoft’s official Download Center and install it, then restart the device.\nIf you need the device quiet right away, you can keep working with fewer interruptions by using Do not disturb or by changing audio alerts to visual notifications in Accessibility settings.\nIf the chiming still continues after these checks, especially when no notifications are appearing, the next best step would be to contact Surface Support for a more detailed hardware-level review.\nLet me know if you need further assistance, feel free to ask me by clicking \"Add Comment\" or \"Add Answer\" if you cannot add comment so your response will be visible. Thanks for your effort.\nNote: Please follow the steps in our documentation to enable e-mail notifications if you want to receive the related email notification for this thread.",
+        "is_accepted": false,
+        "is_ai": false,
+        "comments": [
+          "Hi\nHave you had an opportunity to review the answer shared earlier?  \nAny update you can provide would be greatly appreciated."
+        ]
+      },
+      {
+        "text": "Try these steps on Surface Laptop 5 running Windows 11 to narrow down and stop the chime, focusing on audio, drivers, and services already updated in the environment:\nRun the built-in audio troubleshooter\nOpen the Get Help app using the audio troubleshooter link:\nRun the troubleshooter in Get Help\nLet it complete diagnostics and apply any fixes it suggests for sound or notification issues.\nCheck sound devices and enhancements\nRight-click the speaker icon in the taskbar → Sound settings.\nUnder Output, select the active output device (Speakers / Surface Audio).\nScroll to Audio enhancements and turn them Off to rule out enhancement-related tones.\nUnder Input, confirm the correct microphone is selected and working; misconfigured input can sometimes trigger system sounds.\nAdjust microphone settings (if chime is related to mic activity)\nOpen Sound settings: Open Sound settings\nUnder Input > Choose a device for speaking or recording, select the correct mic.\nEnsure \"Allow apps and Windows to use this device for audio\" is enabled.\nAdjust Input volume so it is not constantly peaking, and turn off any Audio enhancements.\nUse Start test to verify the mic is behaving normally.\nReinstall audio driver (even if already updated)\nPress Win + X → Device Manager.\nExpand Sound, video and game controllers.\nRight-click Realtek High Definition Audio or Surface Audio → Uninstall device.\nCheck Delete the driver software if available → Uninstall.\nRestart the Surface Laptop 5.\nAfter restart, go to Windows Update → Check for updates and install all updates, including Optional updates, so the correct Surface audio driver and firmware are reinstalled.\nVerify Windows audio services\nPress Win + R, type services.msc, press Enter.\nFind Windows Audio and Windows Audio Endpoint Builder.\nFor each service:\nEnsure Startup type is Automatic.\nSelect Restart.\nUpdate Surface firmware and drivers via Surface app\nOpen the Surface app: Open the Surface app.\nExpand Help & support and check update status.\nSelect Check for updates to open Windows Update and install all available updates.\nIf the Surface app is not installed, install it from Microsoft Store, then repeat the steps above.\nIf the chime persists, consider a reset path\nIf all audio, driver, and service checks are clean and the chime continues, use the Surface recovery options:\nFirst try a standard restart.\nIf needed, perform a reset/restore of the Surface from Windows recovery options, after backing up important data.\nIf the chime is tied to a specific action (plugging/unplugging power, USB, Bluetooth, or notifications), repeat the above steps while watching Device Manager and Sound settings to see which device or input is repeatedly connecting/disconnecting.\nReferences:\nTroubleshoot Surface sound and audio accessories\nSurface Laptop 5 update history\ncannot increase volume even if trouble shooter updates it - Microsoft Q&A\nHow to fix this. no audio device is installed - Microsoft Q&A",
+        "is_accepted": false,
+        "is_ai": true,
+        "comments": []
+      }
+    ]
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/answers/questions/5864568/edge-crashes-while-using-microsoft-print-to-pdf",
+    "title": "Edge crashes while using Microsoft Print to PDF",
+    "question": {
+      "text": "When I try to use Microsoft print to PDF in edge browser it crashes Edge. I have tried all the necessary troubleshooting steps, but the issue remains same. this function works fine when used in other application such as Word, adobe, excel etc",
+      "comments": [
+        "that did not work.",
+        "Sorry, I was offline.\nOpen the old Control Panel.\nSet View at the top of the old Control Panel to large icons.\nOpen the Programs and Features applet.\nClick 'Turn Windows features on or off' on the left side.\nUn-check 'Microsoft Print to PDF' in the list.\nRestart (not shut down) your PC.\nThen, go back and re-enable 'Microsoft Print to PDF' in the list."
+      ]
+    },
+    "answers": [
+      {
+        "text": "If Print to PDF is working in other apps:\nClose Edge.\nOpen the Settings App, then go to Apps - Installed Apps.\nScroll down to find Edge, select it and choose Modify - Repair.\nRestart (not shut down) your PC and check if that resolves the problem.\nIf not, downlaod the Edge installer from this link and use that to reinstall Edge on top of the current Edge installation.\nhttps://www.microsoft.com/en-us/edge/download?form=MA13FJ",
+        "is_accepted": false,
+        "is_ai": false,
+        "comments": [
+          "that did not work.",
+          "Sorry, I was offline.\nOpen the old Control Panel.\nSet View at the top of the old Control Panel to large icons.\nOpen the Programs and Features applet.\nClick 'Turn Windows features on or off' on the left side.\nUn-check 'Microsoft Print to PDF' in the list.\nRestart (not shut down) your PC.\nThen, go back and re-enable 'Microsoft Print to PDF' in the list."
+        ]
+      },
+      {
+        "text": "Follow these steps focused on Edge, since Microsoft Print to PDF works in other apps and the crash is specific to Edge:\nClose other tabs, extensions, and apps\nEdge may be running out of memory when invoking Print to PDF.\nClose all tabs except the one being printed.\nClose other running apps and pause any downloads.\nDisable or uninstall unnecessary extensions.\nTry printing to PDF again.\nUpdate Microsoft Edge\nA bug in the current Edge build can cause crashes during printing.\nIn Edge, select Settings and more (⋯) > Settings > About Microsoft Edge.\nAllow Edge to check for and install updates.\nRestart Edge and test Microsoft Print to PDF again.\nClear Edge cache and browsing data\nCorrupted cached data can cause page or print rendering issues.\nIn Edge, select Settings and more > History > Open history page.\nSelect Delete browsing data.\nSet Time range to All time.\nSelect at least Browsing history and Cached images and files, then choose Clear now.\nRetry printing to PDF.\nRepair Microsoft Edge\nIf Edge components related to printing are corrupted, repairing Edge can fix them without removing data.\nClose Edge for all users on the device.\nGo to Start > Settings > Apps > Installed apps.\nSelect Microsoft Edge > Modify.\nWhen prompted, choose Yes, ensure the device is online, then select Repair.\nAfter repair completes, open Edge and test Microsoft Print to PDF.\nRestart the device and re‑test\nA running process or driver conflict can cause Edge to crash when invoking the print pipeline.\nRestart Windows.\nOpen Edge and immediately test printing to PDF on a simple page (for example, a blank or text-only page) before opening many tabs.\nCheck security software\nThird‑party security tools can interfere with Edge’s print or PDF pipeline.\nOpen any third‑party security software (for example, Norton, McAfee).\nEnsure it is fully updated.\nIf it has web or browser protection modules, temporarily disable them and test printing to PDF in Edge.\nIf the crash stops, configure the security software to trust Edge.\nIsolate content or site issues\nSince printing works in other apps, also test whether the crash happens on all sites or only specific ones:\nTry printing a different website or a local HTML file in Edge.\nIf only certain sites cause the crash, capture that detail and use Settings and more > Help and feedback > Send feedback in Edge to report it.\nIf the crash persists after these steps, collect crash information (for example, via edge://crashes if crash reporting is enabled) and provide it when contacting support, as crash diagnostic data is used to identify and fix Edge issues.\nReferences:\nTroubleshoot print issues in Microsoft Edge\nWhat to do if Microsoft Edge isn't working\nUser data and privacy in Microsoft Edge\nRecent Microsoft Edge update causing printer issues - Microsoft Q&A",
+        "is_accepted": false,
+        "is_ai": true,
+        "comments": []
+      }
+    ]
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/answers/questions/5865521/how-to-remove-this-sponsored-tab-thing",
+    "title": "How to remove this sponsored tab thing",
+    "question": {
+      "text": "There's this thing where tabs appear without consent, I use a different browser than edge but it still brute forces it's way into my face, even after uninstalling it, it still won't go away, and every so often, it opens up tabs like this one, even though I never opened it, it's annoying and like a pest that's immortal. And no, this is not a virus.",
+      "comments": [
+        "I found \"widgetsplatform runtime\" in installed apps, and the news app.",
+        "It happens when I close my computer for a while then open it back up, the tabs appear."
+      ]
+    },
+    "answers": [
+      {
+        "text": "Hello, can you please try to disable each and check if you are getting the same issue?",
+        "is_accepted": false,
+        "is_ai": false,
+        "comments": []
+      },
+      {
+        "text": "Please check if you have another app that may be triggering this behavior.\nSettings → Apps → Installed apps\nLook for anything suspicious, like:\n“Web Companion”\n“Widgets”\n“News”\nOEM tools (Lenovo, etc.)\nDisable or uninstall anything you don’t use. Please note that this is a public forum. I will do my best to respond within a short time, and I apologize for any delay. I’m simply another user sharing insights and information that may be helpful to others.",
+        "is_accepted": false,
+        "is_ai": false,
+        "comments": [
+          "I found \"widgetsplatform runtime\" in installed apps, and the news app."
+        ]
+      },
+      {
+        "text": "Hi! Let me help you.\nWhen it usually happens (startup? idle? typing?)",
+        "is_accepted": false,
+        "is_ai": false,
+        "comments": [
+          "It happens when I close my computer for a while then open it back up, the tabs appear."
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/answers/questions/5792039/microsoft-edge-145-kiosk-mode-downloads",
+    "title": "Microsoft Edge 145, kiosk mode downloads",
+    "question": {
+      "text": "I have been using edge kiosk with public browsing but when I updated to 145 I lost the ability to view downloads. I am able to get to edge://downloads which is what it was in the past but now it looks like edge is using Edge://downloads-hub which kiosk mode blocks. Edge://downloads still works but I use read only address bar and the downloads button on the edge menu no longer directs to downloads",
+      "comments": [
+        "I've had the same issue, and after a lot of troubleshooting I found that going to the kiosk's localappdata\\Microsoft and renaming the Edge folder to recreate the Edge profile fixes it for me"
+      ]
+    },
+    "answers": [
+      {
+        "text": "In Microsoft Edge kiosk public-browsing mode, internal URLs are locked down and only edge://downloads and edge://print are allowed. All other internal Edge URLs, including the newer downloads hub (edge://downloads-hub), are blocked by design.\nIn current kiosk behavior, this means:\nAccess to edge://downloads is still the supported and allowed way to view downloads.\nIf the UI or redirects in version 145 attempt to use edge://downloads-hub, kiosk mode will block that page and there is no kiosk policy to override this.\nTo work around this within kiosk constraints:\nEnsure the kiosk session is explicitly navigating to edge://downloads (for example via a direct link or allowed navigation) rather than relying on any built‑in button that may target edge://downloads-hub.\nConfirm that kiosk is configured as Public browsing and that no additional URL blocking policies (such as URLBlocklist) are preventing edge://downloads.\nIf the browser itself is internally redirecting edge://downloads to edge://downloads-hub in version 145, that conflicts with the documented kiosk rule that only edge://downloads and edge://print are allowed. In that case, this is a product regression/behavior change and needs to be raised to Microsoft Edge support or via enterprise support channels, as there is no kiosk policy or flag in the documented configuration to re‑allow edge://downloads-hub.\nReferences:\nConfigure Microsoft Edge kiosk mode\nPlan your kiosk mode transition\nArchived release notes for Microsoft Edge Stable Channel",
+        "is_accepted": false,
+        "is_ai": true,
+        "comments": []
+      }
+    ]
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/answers/questions/5841134/how-to-erase-all-passwords-in-edge",
+    "title": "How to erase ALL passwords in Edge?",
+    "question": {
+      "text": "I want to erase all saved passwords in Edge.\nI’ve tried everything, but after deleting them one by one, they keep coming back.\nI’ve also tried resetting the Edge settings, unsyncing the passwords tab, clearing browsing data, and more, but nothing has worked.\nIf anyone has any ideas, I would greatly appreciate it.\"",
+      "comments": [
+        "I too am not able to delete 400+ saved passwords. I have tried clearing all browsing history of all time. I have also tried re-syncing with Microsoft Server as well as signing out and deleting all history, as suggested in this post. Nothing is working and this is completely frustrating. I am being forced to delete passwords one by one",
+        "Same, it is easy to import and outport, but not to delete.",
+        "Your instructions provided did not work."
+      ]
+    },
+    "answers": [
+      {
+        "text": "As stated previously, there is no \"PASSWORD\" option to Check in the section \"Clear browsing data\".\nPlease remove the silly AI generated content, and get a real person to look at it.\nI am using Version 147.0.3912.60 (Official build) (64-bit) if that matters.",
+        "is_accepted": false,
+        "is_ai": false,
+        "comments": [
+          "Same, it is easy to import and outport, but not to delete."
+        ]
+      },
+      {
+        "text": "Hi,\nIt does seem like there’s no option for Passwords when clearing browsing data, and it’s unclear whether that’s intentional or a bug. If your passwords keep reappearing, it’s likely because your synced data from the server is restoring them, including your saved passwords. In this case, you can try resetting your sync data from the server in Settings > Profiles > Sync > Reset sync data from Microsoft servers. I can't remember if this will affect Workspaces, but you can use this extension to export your Favorites per workspace as backup in case it got affected.\nIf that doesn't work, you can go to Settings > Profiles > Sync, then sign out and choose the option to clear favorites, history, and passwords before proceeding. After that, you can sign back into your account. This method works if you’re okay with wiping everything and starting fresh.",
+        "is_accepted": false,
+        "is_ai": false,
+        "comments": [
+          "Your instructions provided did not work."
+        ]
+      },
+      {
+        "text": "IN the section \"Clear browsing data\", there is no \"PASSWORD\" option to Check, only \"all data from the previous version of Microsoft Edge!",
+        "is_accepted": false,
+        "is_ai": false,
+        "comments": []
+      },
+      {
+        "text": "To erase all saved passwords in Microsoft Edge and prevent them from reappearing, clear them from both the local browser data and from any synced profile data, then turn off saving going forward.\nDelete all saved passwords from Edge\nOpen Edge.\nSelect Settings and more (⋯) > Settings.\nGo to Privacy, search, and services.\nUnder Clear browsing data, select Choose what to clear next to Clear browsing data now.\nSet Time range to All time.\nCheck Passwords (scroll down if needed).\nSelect Clear now.\nThis removes all passwords stored on the device (and, if sync is on, across synced devices).\nMake sure password saving is disabled so new ones are not recreated\nIn Edge, go to Settings and more (⋯) > Settings.\nSelect Profiles > Passwords.\nTurn Offer to save passwords to Off.\nTurning this off stops Edge from offering to save passwords again. Previously saved passwords are already removed by step 1.\nIf passwords still reappear, repeat on every device using the same profile Because passwords can sync across devices, repeat step 1 on each device where the same Edge profile is signed in and syncing. Ensure sync is turned off for passwords while doing this, then turn it back on only after all devices have been cleared.\nReferences:\nMicrosoft Edge, browsing data, and privacy\nView and delete browser history in Microsoft Edge\nSave or forget passwords in Microsoft Edge",
+        "is_accepted": false,
+        "is_ai": true,
+        "comments": []
+      }
+    ]
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/answers/questions/5628438/i-need-to-make-my-taskbar-larger",
+    "title": "I need to make my Taskbar larger",
+    "question": {
+      "text": "I need to make my taskbar larger. I get to the last instruction but cannot find the dropdown page that I need.",
+      "comments": [
+        "That's terrible news! That feature should be fixed, especially as an accessibility feature."
+      ]
+    },
+    "answers": [
+      {
+        "text": "If that is the Taskbar in Windows 11 at the bottom of your Desktop, there is no setting available in Windows 11 to enlarge the Taskbar, the taskbar in Windows 11 has limited functionality compared to previous versions of Windows.",
+        "is_accepted": false,
+        "is_ai": false,
+        "comments": [
+          "That's terrible news! That feature should be fixed, especially as an accessibility feature."
+        ]
+      },
+      {
+        "text": "To make your taskbar larger in Windows 11, you can follow these steps:\nRight-click on the Taskbar: This will bring up a context menu.\nSelect Taskbar Settings: This will open the Taskbar settings page.\nAdjust the Size: Look for an option related to taskbar size. In Windows 11, the taskbar size is generally fixed, but you can adjust the scaling settings in the display settings to indirectly affect the taskbar size.\nChange Display Scaling: Go to Settings > System > Display. Under Scale and layout, you can change the scaling percentage. Increasing this percentage will make everything on your screen, including the taskbar, appear larger.\nIf you are unable to find the dropdown page or settings, ensure that your Windows 11 is updated to the latest version, as settings can sometimes change with updates.",
+        "is_accepted": false,
+        "is_ai": true,
+        "comments": []
+      }
+    ]
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/answers/questions/5863608/how-the-heck-do-i-turn-off-news-feed",
+    "title": "How the Heck Do I Turn Off News Feed",
+    "question": {
+      "text": "I decided to 'Switch to new look'.I toggled it off again, but the news feed remains.\nI searched how to turn off the news feed off but the answer copilot gave me didn't. work. I didn't see a 'Turn off news feed' in 'Start, home and new tab page' like the article said.\nHow do I turn news feed off??\nJames",
+      "comments": [
+        "Please let me know if the solution above worked for you."
+      ]
+    },
+    "answers": [
+      {
+        "text": "Hi, I'm Rodrigo, and I will help you.\nOn the Microsoft Edge new tab page, select the cog icon > and turn off the option \"Show Content\"",
+        "is_accepted": false,
+        "is_ai": false,
+        "comments": [
+          "Please let me know if the solution above worked for you."
+        ]
+      },
+      {
+        "text": "To turn off the news feed in Microsoft Edge, use the page layout/custom settings rather than the “new look” toggle.\nOn desktop Edge (new tab / Start page):\nOpen a new tab.\nSelect the settings cog in the upper‑right of the page.\nChoose Custom.\nUnder content options, select Content off (this fully turns off the feed).\n• Alternatively, choose Focused to hide the feed until scrolling.\nOn Edge mobile (Android/iOS):\nOpen Edge and a new tab.\nTap Page layout at the top right.\nTap Custom.\nTurn Show feeds off.\nIf these options are missing, ensure the latest Edge version is installed, as older builds expose different layout/feed controls.\nReferences:\nMSN feedback frequently asked questions\nMicrosoft Edge for mobile FAQs",
+        "is_accepted": false,
+        "is_ai": true,
+        "comments": []
+      }
+    ]
+  }
+]

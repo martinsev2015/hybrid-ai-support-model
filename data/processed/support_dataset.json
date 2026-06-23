@@ -1,0 +1,20 @@
+[
+    {
+        "timestamp": "2026-06-22 21:49:12",
+        "final_status": "Closed by Customer",
+        "conversation": [
+            {
+                "sender": "Customer",
+                "message": "how to clear history?"
+            },
+            {
+                "sender": "AI Agent",
+                "message": "Go to Settings > Privacy, search, and services > Clear browsing data."
+            },
+            {
+                "sender": "Customer",
+                "message": "thanks"
+            }
+        ]
+    }
+]
