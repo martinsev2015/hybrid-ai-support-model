@@ -152,10 +152,8 @@ MÉTRICAS AVALIADAS
 NOTAS
 --------------------------------------------------------------------------------
 
-  - O arquivo .env nunca deve ser versionado (adicione ao .gitignore).
   - O support_dataset.json é gerado automaticamente em data/processed/ a cada
     conversa concluída via src/main.py.
-  - Os scripts de análise devem ser executados a partir da raiz do projeto para
-    que os caminhos relativos (data/, figures/) funcionem corretamente.
+
 
 ================================================================================
